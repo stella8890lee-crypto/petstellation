@@ -107,7 +107,6 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 <style>
   /* 类目标题 */
   .category h2 {
-  text-align: left;
   color: #888888;      /* 浅灰色 */
   font-weight: bold;    /* 加粗 */
   font-size: 1.8rem;
@@ -116,13 +115,13 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
   /* 每个类目的产品列表 */
   .category ul {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  justify-content: center; /* 整个 grid 居中 */
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 固定每行 4 个 */
+  justify-content: center; 
   gap: 1.5rem;
   list-style: none;
   padding: 0;
-  margin: 0 auto; /* 水平居中 */
+  margin: 0 auto;
   }
 
   .category ul li {
@@ -157,7 +156,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   display: flex;
   justify-content: center; /* 水平居中 */
   align-items: center;
-  gap: 1.5rem; /* 标题和 View All 之间的间距 */
+  gap: 1.5rem; /* 标题和 View All 之间间距 */
   margin: 2rem 0 1rem 0;
 }
 
