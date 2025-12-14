@@ -11,7 +11,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
-		<Header />
+	<Header />
 
 <!-- 全宽 Banner（不受 main 限制） -->
 <section id="hero">
@@ -20,23 +20,27 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   </div>
 </section>
 
-		<main>
-<!-- 品牌展示区 -->
-    <h1 style="color:#333333; font-weight:bold; font-size:2.5rem; margin:1rem 0 0 0;">
+<main>
+  <!-- 品牌文字区 -->
+  <section class="brand-intro">
+    <h1>
       Welcome to Petstellation!
     </h1>
-    <p style="color:#888888; font-size:1rem; margin:0.5rem 0 0 0;">
-      Welcome to our little corner of the universe - a cozy space for animal lovers and stargazers alike.
+    <p>
+      Welcome to our little corner of the universe — a cozy space for animal lovers and stargazers alike.
     </p>
   </section>
 
-<nav class="category-nav">
-  <a href="#birthday-cards">Party Cards</a>
-  <a href="#gift-tags">Gift Tags</a>
-  <a href="#training">Training Programs</a>
-  <a href="#planners">Pet Planners</a>
-  <a href="#checklists">Pet Checklists</a>
-</nav>
+  <!-- 类目导航 -->
+  <nav class="category-nav">
+    <a href="#birthday-cards">Party Cards</a>
+    <a href="#gift-tags">Gift Tags</a>
+    <a href="#training">Training Programs</a>
+    <a href="#planners">Pet Planners</a>
+    <a href="#checklists">Pet Checklists</a>
+  </nav>
+
+</main>
 
   <!-- 产品分类展示 -->
   <section id="products">
