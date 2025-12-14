@@ -142,9 +142,15 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   margin: 0 auto;      /* 居中，左右自动留白 */
   }
 
-  .category ul li {
-    text-align: center;
-  }
+  /* 如果 h4 在 a 标签里，强制继承 */
+.category ul li a {
+  text-decoration: none;   /* 去掉下划线 */
+  color: inherit;
+}
+  .category ul li:hover h4 {
+  color: #333333;
+  text-align: center;
+}
 
   .category ul li img {
     width: 100%;
