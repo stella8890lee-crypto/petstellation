@@ -228,11 +228,13 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 }
 
 .category-nav {
-  display: flex;
+   display: flex;
   justify-content: center;
-  gap: 1rem;
-  margin: 0.5rem; 
-  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.2rem;          /* 稍微收紧一点 */
+  margin: 1.5rem auto;  /* 上下更紧凑 */
+  flex-wrap: nowrap;    /* ✅ 不允许换行 */
+  max-width: 88%;       /* 和你产品区一致 */
 }
 
 .category-nav a {
@@ -242,6 +244,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   padding: 0.4rem 0.8rem;
   border-radius: 20px;
   background: #f5f5f5;
+  white-space: nowrap;   /* 不允许文字内部换行 */
 }
 
 .category-nav a:hover {
