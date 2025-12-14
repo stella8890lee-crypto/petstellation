@@ -117,11 +117,12 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   /* 每个类目的产品列表 */
   .category ul {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 每行 4 个 */
-    gap: 1.5rem;
-    list-style: none;
-    padding: 0;
-    margin: 0;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  justify-content: center; /* 整个 grid 居中 */
+  gap: 1.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto; /* 水平居中 */
   }
 
   .category ul li {
@@ -154,8 +155,9 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   }
 .category-header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center; /* 水平居中 */
   align-items: center;
+  gap: 1.5rem; /* 标题和 View All 之间的间距 */
   margin: 2rem 0 1rem 0;
 }
 
