@@ -30,16 +30,19 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
     </p>
   </section>
 
-  <!-- 产品展示区 -->
-			<section id="products">
-  <ul>
-    <li>
+  <!-- 产品分类展示 -->
+  <section id="products">
+    <!-- 每个类目 -->
+    <div class="category">
+      <h2>PET THEME PARTY CARDS & VET CHECK-UP CARDS</h2>
+      <ul>
+       <li>
       <a href="https://lemon-squeezy.com/checkout/product_1">
         <img src="/product-1.png" alt="产品1" width="360" height="360" />
         <h4>产品1名称</h4>
       </a>
-    </li>
-    <li>
+      </li>
+      <li>
       <a href="https://lemon-squeezy.com/checkout/product_2">
         <img src="/product-2.png" alt="产品2" width="360" height="360" />
         <h4>产品2名称</h4>
@@ -70,37 +73,54 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
       </a>
     </li>
   </ul>
-</section>
+  </div>
+  </section>
 		</main>
-<!-- 在同一个文件底部或顶部加 <style> -->
+
 <style>
-  #products ul {
+  /* 类目标题 */
+  .category h2 {
+    text-align: left;
+    color: #333333;
+    font-size: 1.8rem;
+    margin: 2rem 0 1rem 0;
+  }
+
+  /* 每个类目的产品列表 */
+  .category ul {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 每行 3 个 */
-    gap: 2rem; /* 每个产品间距 */
+    grid-template-columns: repeat(4, 1fr); /* 每行 4 个 */
+    gap: 1.5rem;
     list-style: none;
     padding: 0;
     margin: 0;
   }
 
-  #products ul li {
+  .category ul li {
     text-align: center;
   }
 
-  #products ul li img {
+  .category ul li img {
     width: 100%;
     height: auto;
     border-radius: 12px;
   }
 
+  .category ul li h4 {
+    margin: 0.5rem 0 0 0;
+    color: #333333;
+    font-size: 1rem;
+  }
+
+  /* 响应式布局 */
   @media (max-width: 1024px) {
-    #products ul {
+    .category ul {
       grid-template-columns: repeat(2, 1fr); /* 平板每行 2 个 */
     }
   }
 
   @media (max-width: 720px) {
-    #products ul {
+    .category ul {
       grid-template-columns: 1fr; /* 手机每行 1 个 */
     }
   }
