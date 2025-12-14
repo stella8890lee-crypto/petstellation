@@ -94,14 +94,30 @@ import Footer from '../components/Footer.astro';
       <a href="https://lemon-squeezy.com/checkout/product_5">
         <img src="/product-5.png" alt="产品5" width="360" height="360" />
         <h4>产品5名称</h4>
+        <p class="price">$8.99 USD</p>
       </a>
     </li>
  <li>
       <a href="https://lemon-squeezy.com/checkout/product_6">
         <img src="/product-6.png" alt="产品6" width="360" height="360" />
         <h4>产品6名称</h4>
+        <p class="price">$8.99 USD</p>
       </a>
     </li>
+<li>
+      <a href="https://lemon-squeezy.com/checkout/product_6">
+        <img src="/product-6.png" alt="产品6" width="360" height="360" />
+        <h4>产品6名称</h4>
+        <p class="price">$8.99 USD</p>
+      </a>
+    </li>
+<li>
+      <a href="https://lemon-squeezy.com/checkout/product_6">
+        <img src="/product-6.png" alt="产品6" width="360" height="360" />
+        <h4>产品6名称</h4>
+      </a>
+    </li>
+
   </ul>
   </div>
   </section>
@@ -142,6 +158,12 @@ import Footer from '../components/Footer.astro';
     color: #333333;
     font-size: 1rem;
   }
+
+.category ul li .price {
+  color: #666666;
+  font-size: 0.95rem;
+  margin: 0.25rem 0 0 0;
+}
 
   /* 响应式布局 */
   @media (max-width: 1024px) {
