@@ -34,7 +34,18 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   <section id="products">
     <!-- 每个类目 -->
     <div class="category">
-      <h2>PET THEME PARTY CARDS & VET CHECK-UP CARDS</h2>
+
+    <div class="category-header">
+  <h2>PET THEME PARTY CARDS & VET CHECK-UP CARDS</h2>
+  <a
+    href="https://your-lemon-link.com/birthday-cards"
+    target="_blank"
+    class="view-all"
+  >
+    View all →
+  </a>
+</div>
+      
       <ul>
        <li>
       <a href="https://lemon-squeezy.com/checkout/product_1">
@@ -125,6 +136,29 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
       grid-template-columns: repeat(2, 1fr); /* 手机每行 2 个 */
     }
   }
+.category-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem 0 1rem 0;
+}
+
+.category-header h2 {
+  color: #888888;
+  font-weight: bold;
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+.view-all {
+  font-size: 0.95rem;
+  color: #999999;
+  text-decoration: none;
+}
+
+.view-all:hover {
+  color: #333333;
+}
 </style>
 		<Footer />
 	</body>
