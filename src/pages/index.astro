@@ -72,6 +72,39 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   </ul>
 </section>
 		</main>
+<!-- 在同一个文件底部或顶部加 <style> -->
+<style>
+  #products ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 每行 3 个 */
+    gap: 2rem; /* 每个产品间距 */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #products ul li {
+    text-align: center;
+  }
+
+  #products ul li img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+
+  @media (max-width: 1024px) {
+    #products ul {
+      grid-template-columns: repeat(2, 1fr); /* 平板每行 2 个 */
+    }
+  }
+
+  @media (max-width: 720px) {
+    #products ul {
+      grid-template-columns: 1fr; /* 手机每行 1 个 */
+    }
+  }
+</style>
 		<Footer />
 	</body>
 </html>
