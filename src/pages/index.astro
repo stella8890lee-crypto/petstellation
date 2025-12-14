@@ -223,14 +223,41 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 #hero {
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: center; /* 水平居中 */
   padding: 2rem 0;
 }
 
+.hero-inner {
+  display: flex;
+  justify-content: center; /* 内部图片居中 */
+  align-items: center;
+  width: 75vw; /* 图片占屏幕 75% */
+}
+
 .hero-inner img {
-  width: 75vw;
+  width: 100%;
   height: auto;
   display: block;
+}
+
+.brand-intro {
+  text-align: center; /* 文字居中 */
+  margin: 2rem 0 1.5rem 0;
+  white-space: nowrap; /* 防止换行 */
+}
+
+.brand-intro h1 {
+  color: #333333;
+  font-weight: bold;
+  font-size: 2.5rem;
+  margin: 0;
+  white-space: nowrap; /* 保证单行显示 */
+}
+
+.brand-intro p {
+  color: #888888;
+  font-size: 1rem;
+  margin-top: 0.5rem;
 }
 
 </style>
