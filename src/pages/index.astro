@@ -218,6 +218,34 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   color: #333333;
 }
 
+#hero {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 1rem;
+}
+
+#hero img {
+  width: 100%;
+  max-width: 1400px;   /* 控制桌面端最大显示宽度 */
+  height: auto;
+  display: block;
+}
+
+/* 大屏幕再放大一点 */
+@media (min-width: 1600px) {
+  #hero img {
+    max-width: 1800px;
+  }
+}
+
+/* 手机端 */
+@media (max-width: 768px) {
+  #hero {
+    padding: 1rem;
+  }
+} 
+
 </style>
 		<Footer />
 	</body>
