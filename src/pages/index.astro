@@ -214,31 +214,17 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   color: #333333;
 }
 
-#hero img {
+#hero {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+.hero-inner img {
   width: 75vw;
   height: auto;
-}
-
-/* 超大屏 */
-@media (min-width: 1600px) {
-  #hero img {
-    width: 80vw;
-  }
-}
-
-/* 笔记本 */
-@media (max-width: 1200px) {
-  #hero img {
-    width: 85vw;
-  }
-}
-
-/* 手机 */
-@media (max-width: 768px) {
-  #hero img {
-    width: 100%;
-    padding: 0 1rem;
-  }
+  display: block;
 }
 
 </style>
