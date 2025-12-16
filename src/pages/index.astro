@@ -385,6 +385,22 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   color: #333333;
 }
 
+/* =========================
+   手机端：分类导航 2+2+2
+   ========================= */
+@media (max-width: 768px) {
+  .category-nav {
+    flex-wrap: wrap;      /* 允许换行 */
+    max-width: 100%;
+  }
+
+  .category-nav a {
+    flex: 0 0 calc(50% - 0.6rem); /* 每行 2 个 */
+    text-align: center;
+    min-width: max-content;      /* 防止文字被挤坏 */
+  }
+}
+
 #hero {
   width: 100%;
   display: flex;
