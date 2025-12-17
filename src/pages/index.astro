@@ -30,7 +30,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
   </section>
 
   <!-- 类目导航 -->
-  <nav class="category-nav">
+  <nav class="category-nav" id="top-categories">
     <a href="#birthday-cards">Party Cards</a>
     <a href="#gift-tags">Gift Tags</a>
     <a href="#memory-keepsake">Memory Keepsake DIY</a>
@@ -560,7 +560,70 @@ html {
   margin: 0.3rem 0 0 0; /* 副标题和 h1 紧凑一点 */
 }
 
+/* =========================
+   Back to Top Button
+   ========================= */
+#backToTop {
+  position: fixed;
+  right: 2%;
+  bottom: 30%;
+  z-index: 999;
+
+  padding: 10px 14px;
+  font-size: 14px;
+  cursor: pointer;
+
+  background-color: #ffffff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+
+#backToTop.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+#backToTop:hover {
+  background-color: #f6f6f6;
+}
+
+/* 手机端隐藏 */
+@media (max-width: 768px) {
+  #backToTop {
+    display: none;
+  }
+}
+
 </style>
+
+ <!-- Back to Top 按钮 -->
+  <button id="backToTop" aria-label="Back to Top">
+    ↑ Back to Top
+  </button>
+<script is:inline>
+  const backToTop = document.getElementById('backToTop');
+  const target = document.getElementById('top-categories');
+
+  if (backToTop && target) {
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 300) {
+        backToTop.classList.add('show');
+      } else {
+        backToTop.classList.remove('show');
+      }
+    });
+
+    backToTop.addEventListener('click', () => {
+      target.scrollIntoView({ behavior: 'smooth' });
+    });
+  }
+</script>
 		<Footer />
 	</body>
 </html>
