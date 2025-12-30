@@ -90,4 +90,13 @@ All in just 10–15 minutes per day.
 You don’t need to feel overwhelmed by barking anymore.  
 This step-by-step guide gives you structure, clarity, and results.
 
-👉 Click here to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and bring peace and calm back to your home — one paw at a time.
+👉 Click here
+
+<p style="text-align:center; margin-top:1em;">
+  <a href="https://yourshop.com/product-link" target="_blank"
+     style="display:inline-block; padding:12px 24px; background-color:#6C63FF; color:white; border-radius:6px; text-decoration:none; font-weight:bold;">
+    Get the 14-Day Quiet Dog Plan
+  </a>
+</p>
+
+to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and bring peace and calm back to your home — one paw at a time.
