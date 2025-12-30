@@ -43,3 +43,51 @@ Instead, try this:
 ✔️ **Use real-life triggers** — Like doorbells, visitors, or the mail truck
 
 Dogs learn best with positive, real-world practice — just like us.
+
+🧩 **The Solution: A Gentle, Structured Barking Training Plan**  
+
+If your goal is a peaceful home without silencing your dog completely, you need a clear, day-by-day plan that’s easy to follow and doesn’t take hours.
+
+That’s why we created the **No More Barking! 14-Day Quiet Dog Training Plan** — a printable PDF guide built on positive reinforcement and behavioral science.
+
+📥 **What’s Inside the Plan:**
+
+- ✅ **14 Days of Daily Training Tasks**  
+Bite-sized steps to teach your dog calm behaviors around known triggers.
+
+- ✅ **Barking Trigger Log**  
+Track when, why, and how your dog barks to uncover patterns.
+
+- ✅ **Progress Tracker Table**  
+Measure improvement on Day 1, 7, and 14 — see real change.
+
+- ✅ **Vet-Friendly, Force-Free Methods**  
+No yelling. No punishment. Just science-backed dog training.
+
+- ✅ **2 Sizes Included:**  
+  - A4 (8.3 × 11.7 in)  
+  - US Letter (8.5 × 11 in)
+
+Perfect for new puppies, adult dogs, or rescue dogs adjusting to their environment.
+
+💬 **Real-Life Examples You’ll Train With:**
+
+- Doorbell rings → teach “Quiet” + reward  
+- Stranger walks by → redirect with name cue  
+- Walks become overstimulating → use “settle” command  
+- Barking for attention → reward silent waiting  
+
+All in just 10–15 minutes per day.
+
+✨ **Why This Plan Works:**
+
+- Doesn’t rely on harsh corrections  
+- Easy for first-time dog owners  
+- Printable — stick it on your fridge or training binder  
+- Shows real improvement in just 2 weeks
+
+**Ready to Train a Quieter, Calmer Pup?**  
+You don’t need to feel overwhelmed by barking anymore.  
+This step-by-step guide gives you structure, clarity, and results.
+
+👉 Click here to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and bring peace and calm back to your home — one paw at a time.
