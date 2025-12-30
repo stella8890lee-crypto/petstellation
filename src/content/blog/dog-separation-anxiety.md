@@ -77,7 +77,7 @@ We have organized the necessary training content and reminders into concise PDF 
   </a>
 </p>
 
-Print it out, one page is a day's training content, and you can record the training results in the tracking form, which is very convenient.
+10-Day Step-by-Step Behavior Tracker is also included. Print it out, one page is a day's training content, and you can record the training results in the tracking form, which is very convenient.
 
 If your dog’s separation anxiety does not improve with these methods, consult a certified veterinary behaviorist immediately to prevent escalation into self-harming or aggressive behavior.
 
