@@ -80,3 +80,19 @@ We have organized the necessary training content and reminders into concise PDF 
 Print it out, one page is a day's training content, and you can record the training results in the tracking form, which is very convenient.
 
 If your dog’s separation anxiety does not improve with these methods, consult a certified veterinary behaviorist immediately to prevent escalation into self-harming or aggressive behavior.
+
+<p style="text-align:center; margin-top:2em;">
+  <a href="/blog"
+     style="
+       color: #777777;
+       text-decoration: none;
+       font-size: 24px;
+       cursor: pointer;
+       transition: text-shadow 0.2s ease;
+     "
+     onmouseover="this.style.textShadow='1px 1px 2px rgba(0,0,0,0.2)';"
+     onmouseout="this.style.textShadow='none';"
+  >
+    ← Back to Blog
+  </a>
+</p>
