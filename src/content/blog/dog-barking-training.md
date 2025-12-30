@@ -93,7 +93,7 @@ This step-by-step guide gives you structure, clarity, and results.
 👉 Click here
 <p style="text-align:center; margin-top:1em;">
   <a href="https://yourshop.com/product-link" target="_blank"
-     style="display:inline-block; padding:6px 12px; background-color:#556B00; color:white; border-radius:6px; text-decoration:none; font-weight:bold;">
+     style="display:inline-block; padding:6px 12px; background-color:#7B8F00; color:white; border-radius:6px; text-decoration:none; font-weight:bold;">
     Get the 14-Day Quiet Dog Plan
   </a>
 </p>
