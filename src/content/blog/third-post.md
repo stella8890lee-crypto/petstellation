@@ -1,7 +1,7 @@
 ---
-title: "Third post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 22 2022"
+title: "Stop the Noise: A Step-by-Step Guide to Reducing Your Dog’s Barking Without Stress"
+description: "You can help your dog learn when to bark and when to stay calm — without yelling, punishment, or expensive trainers."
+pubDate: "Jun 28 2025"
 heroImage: "/blog-placeholder-2.jpg"
 ---
 
