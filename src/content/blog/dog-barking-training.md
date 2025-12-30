@@ -98,3 +98,7 @@ This step-by-step guide gives you structure, clarity, and results.
   </a>
 </p>
 to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and bring peace and calm back to your home — one paw at a time.
+
+<p style="text-align:center; margin-top:2em;">
+  <a href="/blog" class="back-to-blog-link">← Back to Blog</a>
+</p>
