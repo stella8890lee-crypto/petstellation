@@ -100,18 +100,17 @@ This step-by-step guide gives you structure, clarity, and results.
 to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and bring peace and calm back to your home — one paw at a time.
 
 <p style="text-align:center; margin-top:2em;">
-  <a href="/blog" class="back-to-blog-link">← Back to Blog</a>
+  <a href="/blog"
+     style="
+       color: #333333;
+       text-decoration: none;
+       font-size: 20px;
+       cursor: pointer;
+       transition: text-shadow 0.2s ease;
+     "
+     onmouseover="this.style.textShadow='1px 1px 2px rgba(0,0,0,0.2)';"
+     onmouseout="this.style.textShadow='none';"
+  >
+    ← Back to Blog
+  </a>
 </p>
-
-<style>
-.back-to-blog-link {
-  color: #333333;
-  text-decoration: none;
-  font-size: 20px;
-  cursor: pointer;
-}
-.back-to-blog-link:hover {
-  color: #333333;
-  text-decoration: none;
-}
-</style>
