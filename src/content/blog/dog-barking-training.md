@@ -102,7 +102,7 @@ to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and br
 <p style="text-align:center; margin-top:2em;">
   <a href="/blog"
      style="
-       color: #333333;
+       color: #777777;
        text-decoration: none;
        font-size: 20px;
        cursor: pointer;
