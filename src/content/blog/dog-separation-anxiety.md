@@ -70,7 +70,12 @@ Rule Out Medical Issues: Accidents indoors might be due to a urinary infection. 
 
 We have organized the necessary training content and reminders into concise PDF pages for easy use. Please check our product listing below:
 
-Dog Separation Anxiety Training Plan (Printable PDF) – 10-Day Step-by-Step Behavior Tracker
+<p style="text-align:center; margin-top:1em;">
+  <a href="https://yourshop.com/product-link" target="_blank"
+     style="display:inline-block; padding:6px 12px; background-color:#7B8F00; color:white; border-radius:6px; text-decoration:none; font-weight:bold;">
+    Get the Dog Separation Anxiety Training Plan (Printable PDF) – 10-Day Step-by-Step Behavior Tracker
+  </a>
+</p>
 
 Print it out, one page is a day's training content, and you can record the training results in the tracking form, which is very convenient.
 
