@@ -1,7 +1,7 @@
 ---
-title: "Markdown Style Guide"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
-pubDate: "Jun 19 2024"
+title: "Dog Separation Anxiety: Causes, Symptoms, and Proven Solutions"
+description: "Here's a step-by-step guide to effective and science-backed solutions for treating dog separation anxiety."
+pubDate: "Jun 5 2025"
 heroImage: "/blog-placeholder-1.jpg"
 ---
 
