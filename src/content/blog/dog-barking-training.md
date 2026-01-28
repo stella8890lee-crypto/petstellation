@@ -92,7 +92,7 @@ This step-by-step guide gives you structure, clarity, and results.
 
 👉 Click here
 <p style="text-align:center; margin-top:1em;">
-  <a href="https://yourshop.com/product-link" target="_blank"
+  <a href="https://petstellation.lemonsqueezy.com/buy/2254e899-64c5-4521-8bd3-2ecadfc51d2c" target="_blank"
      style="display:inline-block; padding:6px 12px; background-color:#7B8F00; color:white; border-radius:6px; text-decoration:none; font-weight:bold;">
     Get the 14-Day Quiet Dog Plan
   </a>
