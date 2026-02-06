@@ -901,6 +901,38 @@ html {
   }
 }
 
+/* ===== 设备控制 ===== */
+.desktop-only {
+  display: inline-block;
+}
+
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .desktop-only {
+    display: none;
+  }
+  .mobile-only {
+    display: inline-block;
+  }
+}
+
+/* ===== 手机端 Top 按钮样式 ===== */
+.mobile-top-btn {
+  font-size: 0.85rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 16px;
+  border: 1px solid #ddd;
+  background: #ffffff;
+  color: #666666;
+  cursor: pointer;
+}
+
+.mobile-top-btn:hover {
+  background: #f3f3f3;
+}
 </style>
 
  <!-- Back to Top 按钮 -->
@@ -929,6 +961,27 @@ html {
       });
     });
   }
+
+document.querySelectorAll('.mobile-top-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const id = btn.dataset.target;
+    const target = document.getElementById(id);
+    if (!target) return;
+
+    const offset = window.innerHeight * 0.33;
+
+    const top =
+      target.getBoundingClientRect().top +
+      window.pageYOffset -
+      offset;
+
+    window.scrollTo({
+      top,
+      behavior: 'smooth'
+    });
+  });
+});
+
 </script>
 
 		<Footer />
