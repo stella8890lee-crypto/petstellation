@@ -99,50 +99,75 @@ This step-by-step guide gives you structure, clarity, and results.
 </p>
 to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and bring peace and calm back to your home — one paw at a time.
 
-<hr style="border: none; border-top: 2px solid #ccc; margin: 4em 0;" />
+<hr style="border: none; border-top: 2px solid #bbb; margin: 4em 0;" />
 
-<div style="margin: 2em 0; text-align: center; max-width: 600px; margin-left:auto; margin-right:auto;">
-  <p style="font-size: 1.2em; font-weight: 500; margin-bottom: 0.5em; color: #333;">
-    🎁 Free Photo Tag Canva Template — Our Little Welcome Gift
-  </p>
-
-  <p style="color: #555; font-size: 1em; line-height: 1.5; margin-bottom: 1.2em;">
+<div class="welcome-gift">
+  <p class="gift-title">🎁 Free Photo Tag Canva Template — Our Little Welcome Gift</p>
+  <p class="gift-desc">
     Download a simple, customizable photo tag template to create a sweet, personal tag for your pet.
   </p>
-
-  <a
-    href="https://subscribepage.io/SAWdyR"
-    target="_blank"
-    style="
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #A3C285; /* 清新温柔的绿色 */
-      color: white;
-      font-weight: 600;
-      font-size: 1em;
-      border-radius: 8px;
-      text-decoration: none;
-      transition: background-color 0.2s ease, transform 0.1s ease;
-    "
-    onmouseover="this.style.backgroundColor='#8FB56D'; this.style.transform='translateY(-1px)';"
-    onmouseout="this.style.backgroundColor='#A3C285'; this.style.transform='translateY(0)';"
-  >
-    Get the Free Photo Tag
-  </a>
+  <a href="https://subscribepage.io/SAWdyR" target="_blank" class="gift-button">Get the Free Photo Tag</a>
 </div>
 
 <p style="text-align:center; margin-top:2em;">
-  <a href="/blog"
-     style="
-       color: #777777;
-       text-decoration: none;
-       font-size: 20px;
-       cursor: pointer;
-       transition: text-shadow 0.2s ease;
-     "
-     onmouseover="this.style.textShadow='1px 1px 2px rgba(0,0,0,0.2)';"
-     onmouseout="this.style.textShadow='none';"
-  >
+  <a href="/blog" class="back-blog">← Back to Blog</a>
+</p>
+
+<style>
+.welcome-gift {
+  max-width: 520px;
+  margin: 3em auto;
+  text-align: center;
+  background-color: #f9f9f9;
+  padding: 2em 1.5em;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.gift-title {
+  font-size: 1.25em;
+  font-weight: 500;
+  margin-bottom: 0.5em;
+  color: #333;
+}
+
+.gift-desc {
+  color: #555;
+  font-size: 1em;
+  line-height: 1.6;
+  margin-bottom: 1.5em;
+}
+
+.gift-button {
+  display: inline-block;
+  padding: 0.5em 1.2em; /* 紧贴文字大小 */
+  background-color: #A3C285; /* 清新温柔的绿色 */
+  color: white;
+  font-weight: 600;
+  font-size: 1em;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.gift-button:hover {
+  background-color: #8FB56D;
+  transform: translateY(-1px);
+}
+
+.back-blog {
+  color: #777777;
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+  transition: text-shadow 0.2s ease;
+}
+
+.back-blog:hover {
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+</style>
+
     ← Back to Blog
   </a>
 </p>
