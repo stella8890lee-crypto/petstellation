@@ -1,1 +1,66 @@
 
+---
+interface Props {
+  title?: string;
+  description?: string;
+  buttonText?: string;
+  buttonLink?: string;
+}
+
+const {
+  title = '🎁 A small gift for you',
+  description = 'I’ve put together a free printable guide to help you take better care of your pet — simple, practical, and easy to use.',
+  buttonText = 'Get the free guide',
+  buttonLink = '/welcome-gift'
+} = Astro.props;
+---
+
+<section class="welcome-gift">
+  <div class="welcome-gift-inner">
+    <h3>{title}</h3>
+    <p>{description}</p>
+    <a href={buttonLink} class="welcome-gift-btn">
+      {buttonText}
+    </a>
+  </div>
+</section>
+
+<style>
+.welcome-gift {
+  margin: 3.5rem auto;
+  padding: 2rem 1.8rem;
+  max-width: 720px;
+  border: 1px dashed #cfd6c1;
+  border-radius: 14px;
+  background: #fafcf6;
+}
+
+.welcome-gift-inner {
+  text-align: center;
+}
+
+.welcome-gift h3 {
+  margin: 0 0 0.6rem;
+  font-size: 1.3rem;
+}
+
+.welcome-gift p {
+  margin: 0 0 1.4rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+.welcome-gift-btn {
+  display: inline-block;
+  padding: 0.6rem 1.4rem;
+  background: #7b8f00;
+  color: #fff;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.welcome-gift-btn:hover {
+  opacity: 0.9;
+}
+</style>
