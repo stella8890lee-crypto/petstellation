@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/BlogPost.astro';
+import WelcomeGift from '../components/WelcomeGift.astro';
 ---
 
 <Layout
@@ -59,4 +60,15 @@ import Layout from '../layouts/BlogPost.astro';
 	<p>
 		Let’s care for them with all the love they give us.
 	</p>
+
+</p>
+
+	<!-- ✅ 在这里插入 WelcomeGift -->
+	<WelcomeGift
+		title="🎁 A small welcome gift for you"
+		description="As a thank-you for being here, I’ve prepared a free printable photo tag — a little gift to celebrate the moment you and your pet found each other."
+		buttonText="Get the free photo tag"
+		buttonLink="/welcome-gift"
+	/>
+
 </Layout>
