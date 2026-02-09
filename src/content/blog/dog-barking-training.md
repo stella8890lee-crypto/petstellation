@@ -99,15 +99,15 @@ This step-by-step guide gives you structure, clarity, and results.
 </p>
 to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and bring peace and calm back to your home — one paw at a time.
 
-<hr />
+<hr style="border: none; border-top: 2px solid #ccc; margin: 4em 0;" />
 
-<div style="margin: 3em 0; text-align: center;">
-  <p style="font-size: 1.05em; margin-bottom: 0.6em;">
-    🎁 Free Photo Tag Canva Template As Our First Meet Gift
+<div style="margin: 2em 0; text-align: center; max-width: 600px; margin-left:auto; margin-right:auto;">
+  <p style="font-size: 1.2em; font-weight: 500; margin-bottom: 0.5em; color: #333;">
+    🎁 Free Photo Tag Canva Template — Our Little Welcome Gift
   </p>
 
-  <p style="color: #666; max-width: 520px; margin: 0 auto 1.2em;">
-    Download a free printable photo tag template to customize a sweet simple tag specially for your pet.
+  <p style="color: #555; font-size: 1em; line-height: 1.5; margin-bottom: 1.2em;">
+    Download a simple, customizable photo tag template to create a sweet, personal tag for your pet.
   </p>
 
   <a
@@ -115,13 +115,17 @@ to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and br
     target="_blank"
     style="
       display: inline-block;
-      padding: 7px 15px;
-      background-color: #7B8F00;
+      padding: 10px 20px;
+      background-color: #A3C285; /* 清新温柔的绿色 */
       color: white;
-      border-radius: 6px;
-      text-decoration: none;
       font-weight: 600;
+      font-size: 1em;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background-color 0.2s ease, transform 0.1s ease;
     "
+    onmouseover="this.style.backgroundColor='#8FB56D'; this.style.transform='translateY(-1px)';"
+    onmouseout="this.style.backgroundColor='#A3C285'; this.style.transform='translateY(0)';"
   >
     Get the Free Photo Tag
   </a>
@@ -132,7 +136,7 @@ to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and br
      style="
        color: #777777;
        text-decoration: none;
-       font-size: 24px;
+       font-size: 20px;
        cursor: pointer;
        transition: text-shadow 0.2s ease;
      "
