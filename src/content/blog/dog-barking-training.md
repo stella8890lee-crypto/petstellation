@@ -109,10 +109,6 @@ to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and br
   <a href="https://subscribepage.io/SAWdyR" target="_blank" class="gift-button">Get the Free Photo Tag</a>
 </div>
 
-<p style="text-align:center; margin-top:2em;">
-  <a href="/blog" class="back-blog">← Back to Blog</a>
-</p>
-
 <style>
 .welcome-gift {
   max-width: 520px;
