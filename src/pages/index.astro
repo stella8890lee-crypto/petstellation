@@ -872,19 +872,20 @@ html {
 
 .freebie-banner {
   text-align: center;
-  margin: 1.2rem auto 1.8rem auto;
+  margin: 1.2rem auto 2rem auto;
 }
 
 .freebie-banner img {
-  width: 70%;
-  max-width: 880px;
-  border-radius: 16px;
+  width: 100%;
+  max-width: 1400px;   /* ⭐ 关键：放开上限 */
+  height: auto;
+  border-radius: 18px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .freebie-banner img:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 10px 28px rgba(0,0,0,0.12);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.12);
 }
 
 .freebie-note {
