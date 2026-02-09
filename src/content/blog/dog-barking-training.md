@@ -99,6 +99,34 @@ This step-by-step guide gives you structure, clarity, and results.
 </p>
 to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and bring peace and calm back to your home — one paw at a time.
 
+<hr />
+
+<div style="margin: 3em 0; text-align: center;">
+  <p style="font-size: 1.05em; margin-bottom: 0.6em;">
+    🎁 Free Photo Tag Canva Template As Our First Meet Gift
+  </p>
+
+  <p style="color: #666; max-width: 520px; margin: 0 auto 1.2em;">
+    Download a free printable photo tag template to customize a sweet simple tag specially for your pet.
+  </p>
+
+  <a
+    href="https://subscribepage.io/SAWdyR"
+    target="_blank"
+    style="
+      display: inline-block;
+      padding: 7px 15px;
+      background-color: #7B8F00;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 600;
+    "
+  >
+    Get the Free Photo Tag
+  </a>
+</div>
+
 <p style="text-align:center; margin-top:2em;">
   <a href="/blog"
      style="
