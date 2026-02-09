@@ -871,17 +871,22 @@ html {
 }
 
 .freebie-banner {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+
+  width: 80vw;          /* 你要的中间层宽度 */
+  max-width: 1280px;
+
   text-align: center;
-  margin: 1.2rem auto 2rem auto;
+  margin: 1.2rem 0 2rem 0;
 }
 
 .freebie-banner img {
-  width: 80vw;          /* ⭐ 介于 hero 和 products 之间 */
-  max-width: 1280px;    /* ⭐ 控制大屏不过分张扬 */
+  width: 100%;
   height: auto;
   border-radius: 18px;
   display: block;
-  margin: 0 auto;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
