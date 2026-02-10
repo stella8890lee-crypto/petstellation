@@ -81,6 +81,61 @@ We have organized the necessary training content and reminders into concise PDF 
 
 If your dog’s separation anxiety does not improve with these methods, consult a certified veterinary behaviorist immediately to prevent escalation into self-harming or aggressive behavior.
 
+<hr style="border: none; border-top: 2px solid #bbb; margin: 4em 0;" />
+
+<div class="welcome-gift">
+  <p class="gift-title">🎁 Free Photo Tag Canva Template — Our Little Welcome Gift</p>
+  <p class="gift-desc">
+    Download a simple, customizable photo tag template to create a sweet, personal tag for your pet.
+  </p>
+  <a href="https://subscribepage.io/SAWdyR" target="_blank" class="gift-button">Get the Free Photo Tag</a>
+</div>
+
+<style>
+.welcome-gift {
+  max-width: 520px;
+  margin: 3em auto;
+  text-align: center;
+  background-color: #f9f9f9;
+  padding: 2em 1.5em;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.gift-title {
+  font-size: 1.25em;
+  font-weight: 500;
+  margin-bottom: 0.5em;
+  color: #333;
+}
+
+.gift-desc {
+  color: #555;
+  font-size: 1em;
+  line-height: 1.6;
+  margin-bottom: 1.5em;
+}
+
+.gift-button {
+  display: inline-block;
+  padding: 0.5em 1.2em; /* 紧贴文字大小 */
+  background-color: #A3C285; /* 清新温柔的绿色 */
+  color: white;
+  font-weight: 600;
+  font-size: 1em;
+  border-radius: 6px;
+  text-decoration: none;
+  background-color 0.2s ease, transform 0.1s ease;
+}
+
+.gift-button:hover {
+  background-color: #8FB56D;
+  color: #eee; /* hover 文字变成温柔灰色 */
+  transform: translateY(-1px);
+}
+
+</style>
+
 <p style="text-align:center; margin-top:2em;">
   <a href="/blog"
      style="
