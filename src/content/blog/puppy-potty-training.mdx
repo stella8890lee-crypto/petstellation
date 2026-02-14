@@ -162,25 +162,29 @@ Dog Potty Schedule, Accident Handling & Housebreaking Guide (A4 & US Letter Size
   <p style={{color:'#555', fontSize:'1em', lineHeight:'1.6', marginBottom:'1.5em'}}>
     Download a simple, customizable photo tag template to create a sweet, personal tag for your pet.
   </p>
-<a 
-  href="https://subscribepage.io/SAWdyR" 
+<a
+  href="https://subscribepage.io/SAWdyR"
   target="_blank"
   style={{
-    display:'inline-block',
-    padding:'0.4em 0.8em',      // 调整上下内边距，让高度紧凑
-    backgroundColor:'#A3C285',
-    color:'white',
-    fontWeight:'600',
-    fontSize:'1em',
-    borderRadius:'6px',
-    textDecoration:'none',
-    lineHeight:'1.2',          // 控制文字行高
-    whiteSpace:'nowrap',        // 让文字不换行
-    transition:'background-color 0.2s ease, transform 0.1s ease',
-    verticalAlign:'middle'      // 避免行间额外空隙
+    display: 'inline-flex',           // 用 flex 更好控制高度和对齐
+    alignItems: 'center',             // 垂直居中
+    justifyContent: 'center',         // 水平居中
+    padding: '0.4em 0.8em',           // 上下内边距0.4em，左右0.8em
+    backgroundColor: '#A3C285',
+    color: 'white',
+    fontWeight: 600,
+    fontSize: '1em',
+    borderRadius: '6px',
+    textDecoration: 'none',
+    lineHeight: 1,                     // 避免默认行高撑高
+    whiteSpace: 'nowrap',              // 防止换行
+    height: 'auto',                    // 高度由 padding + 内容决定
+    minHeight: 0,                      // 清除可能的最小高度
+    transition: 'background-color 0.2s ease, transform 0.1s ease',
+    boxSizing: 'border-box',           // 确保 padding 不叠加额外高度
   }}
-  onMouseOver={(e)=>e.currentTarget.style.backgroundColor='#8FB56D'}
-  onMouseOut={(e)=>e.currentTarget.style.backgroundColor='#A3C285'}
+  onMouseOver={(e) => e.currentTarget.style.backgroundColor = '#8FB56D'}
+  onMouseOut={(e) => e.currentTarget.style.backgroundColor = '#A3C285'}
 >
   Get the Free Photo Tag Template
 </a>
