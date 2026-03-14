@@ -1,0 +1,211 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<Header />
+
+<main>
+
+<h1 class="hero-title">Catalog</h1>
+
+<div class="catalog-menu">
+
+<a href="/catalog-party-cards">Party Cards</a>
+<a href="/catalog-gift-tags">Gift Tags</a>
+<a href="/catalog-memory-keepsake">Memory Keepsake DIY</a>
+<a href="/catalog-training-programs">Training Programs</a>
+<a href="/catalog-planners">Pet Planners</a>
+<a href="/catalog-checklists">Pet Checklist</a>
+
+</div>
+
+<section class="product-category">
+
+<h3>PARTY CARDS & VET CHECK-UP CARDS</h3>
+
+<ul class="product-grid">
+
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/18ff54a6-2baa-4675-acca-6348532ec9cb">
+        <img src="/20A.png" alt="Vet Check-Up Card In 10 Languages – Multilingual Pet Birthday & Wellness Gift" width="410" height="410" />
+        <h4>Vet Check-Up Card In 10 Languages – Multilingual Pet Birthday & Wellness Gift(20A)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+      </li>
+      <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/2da0106b-b7b9-4f5d-9668-14c08654c9ee">
+        <img src="/20D.png" alt="Vet Check-Up Card in 10 Languages – Pet Wellness Gift for Dog & Cat Birthdays or Anniversaries" width="410" height="410" />
+        <h4>Vet Check-Up Card in 10 Languages – Pet Wellness Gift for Dog & Cat Birthdays or Anniversaries(20D)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/checkout/buy/c19a78e0-633c-472d-b534-f1fb7b42c676">
+        <img src="/30A6.jpg" alt="Woodland Cat Dog Birthday Invitation Template – Cherry Blossom Dog & Cat Party Invite | Editable Canva Pet Party Invitation with Photo Option" width="410" height="410" />
+        <h4>Woodland Cat Dog Birthday Invitation Template – Cherry Blossom Dog & Cat Party Invite | Editable Canva Pet Party Invitation with Photo Option(30A6)</h4>
+        <p class="price">$8.99 USD Instant | Download</p>
+      </a>
+    </li>
+ <li>
+      <a href="https://petstellation.lemonsqueezy.com/checkout/buy/5a544476-5a12-4f46-b072-05909348285c">
+        <img src="/30B3.png" alt="Turn Your Pet Into the Party Star with Photo - Editable Canva Birthday Invitation Template for Dogs & Cats" width="410" height="410" />
+        <h4>Turn Your Pet Into the Party Star with Photo - Editable Canva Birthday Invitation Template for Dogs & Cats(30B3)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+     <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/b5d726ea-cc9d-4915-9eab-ea9d39f9e88f">
+        <img src="/30A1.png" alt="Editable Pet Birthday Invitation Canva Template – Dog or Cat Party Invite – 5x7” Custom Printable Card" width="410" height="410" />
+        <h4>Editable Pet Birthday Invitation Canva Template – Dog or Cat Party Invite – 5x7” Custom Printable Card(30A1)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+ <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/f6741f3c-da39-401a-b18e-ed4c7b138fcf">
+        <img src="/30C-2.png" alt="Watercolor Galaxy Pet Party Invitation Card – Editable Canva Template with Corgi Spaceship, Cat Astronauts & Custom Photo Option" width="410" height="410" />
+        <h4>Watercolor Galaxy Pet Party Invitation Card – Editable Canva Template with Corgi Spaceship, Cat Astronauts & Custom Photo Option(30C-2)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+ <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/f60ae1ff-16cc-4562-b5de-e3e47dab93c0">
+        <img src="/30A9.png" alt="Whimsical Garden Party Invitation Card – Editable Canva Template with Cats, Dogs & Photo Option" width="410" height="410" />
+        <h4>Whimsical Garden Party Invitation Card – Editable Canva Template with Cats, Dogs & Photo Option(30A9)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+ <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/dd6c24c5-c719-4944-9aa6-3ecf6ff4a838">
+        <img src="/36A5.png" alt="Elegant Pet Birthday Invitation Card Template – 5x7" Editable Canva Design | British Style Party Invite for Dogs & Cats" width="410" height="410" />
+        <h4>Elegant Pet Birthday Invitation Card Template – 5x7" Editable Canva Design | British Style Party Invite for Dogs & Cats(36A5)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/eae28275-2a16-4478-93b8-c530c0734ec4">
+        <img src="/30A.png" alt="Editable Pet Birthday & Adoption Party Invitation Card – Personalized Cat & Dog “Pawty” Celebration" width="410" height="410" />
+        <h4>Editable Pet Birthday & Adoption Party Invitation Card – Personalized Cat & Dog “Pawty” Celebration(30A)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/b0aba41a-4eb2-4dbc-bc52-0c8e61ca2fc6">
+        <img src="/30B.png" alt="Editable Cosmic Cat & Dog Adoption Anniversary / Birthday Party Invitation Card – Intergalactic Pet Birthday 'Pawty' in the Forest" width="410" height="410" />
+        <h4>Editable Cosmic Cat & Dog Adoption Anniversary / Birthday Party Invitation Card – Intergalactic Pet Birthday "Pawty" in the Forest(30B)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/d51ec4f2-39cb-4d39-a701-8043bcc983cb">
+        <img src="/30A2.png" alt="Whimsical Beach Party Invitation Card – Editable Canva Template with Cats & Dogs, Photo & Text Options" width="410" height="410" />
+        <h4>Whimsical Beach Party Invitation Card – Editable Canva Template with Cats & Dogs, Photo & Text Options(30A2)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/e6d05fe9-89e6-422e-b6ce-762b3bc80f47">
+        <img src="/32A4.png" alt="Whimsical Cat Party Invitation Canva Template – Editable Pet Celebration Invite with Photo Option" width="410" height="410" />
+        <h4>Whimsical Cat Party Invitation Canva Template – Editable Pet Celebration Invite with Photo Option(32A4)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/54ff02bd-df7b-4e55-afa7-889517f0be84">
+        <img src="/30A3.png" alt="Editable Pet Birthday Invitation Canva Template – British-Inspired Watercolor Card with Dogs & Cats | Custom Text + Optional Photo Insert + Elegant Back Design" width="410" height="410" />
+        <h4>Editable Pet Birthday Invitation Canva Template – British-Inspired Watercolor Card with Dogs & Cats | Custom Text + Optional Photo Insert + Elegant Back Design(30A3)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/c61f7551-dada-41fb-aef5-972fad605aa3">
+        <img src="/30G.png" alt="Editable Pet Birthday Party Invitation Card Template | Crayon Style Dog & Cat Design | 5x7 Canva Template" width="410" height="410" />
+        <h4>Editable Pet Birthday Party Invitation Card Template | Crayon Style Dog & Cat Design | 5x7 Canva Template(30G)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/f3b5fa99-dd50-4db9-8b73-8b2eac0e5b50">
+        <img src="/30A5.png" alt="Pet Birthday Party Invitation Template for Canva – Editable 5x7" Card for Dogs and Cats" width="410" height="410" />
+        <h4>Pet Birthday Party Invitation Template for Canva – Editable 5x7" Card for Dogs and Cats(30A5)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/4e9559b5-f3c2-4971-a1d4-5398ee1f4e7b">
+        <img src="/31D.png" alt="Editable Dog Birthday & Gotcha Day Invitation – Canva Pet Party Template" width="410" height="410" />
+        <h4>Editable Dog Birthday & Gotcha Day Invitation – Canva Pet Party Template(31D)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/e57369af-f08e-4b71-b46d-d8c26b40dd09">
+        <img src="/30C-3.png" alt="Watercolor Pet Birthday Party Invitation Card – Editable Canva Template | Space Theme with Cats & Dog | Custom Text or Photo | Pet Celebration Card" width="410" height="410" />
+        <h4>Watercolor Pet Birthday Party Invitation Card – Editable Canva Template | Space Theme with Cats & Dog | Custom Text or Photo | Pet Celebration Card(30C-3)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/2b631095-0d72-455e-80df-2285b9d928bf">
+        <img src="/31A.png" alt="Editable Dog Birthday & Gotcha Day Invitation – Canva Pet Party Card Template" width="410" height="410" />
+        <h4>Editable Dog Birthday & Gotcha Day Invitation – Canva Pet Party Card Template(31A)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/69e5034a-cac2-4f74-bb42-0295b9d97172">
+        <img src="/36A9.png" alt="Elegant Pet Birthday Invitation Template – British Style 5x7" Canva Card with Photo Insert & Optional Back Cover" width="410" height="410" />
+        <h4>Elegant Pet Birthday Invitation Template – British Style 5x7" Canva Card with Photo Insert & Optional Back Cover(36A9)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/05760721-f884-4963-84bf-c3b44f369861">
+        <img src="/30C.png" alt="Editable Pet Birthday Cards – Canva Template with Space Theme Perfect for Cat and Dog Gotcha Days or Birthday Pawties" width="410" height="410" />
+        <h4>Editable Pet Birthday Cards – Canva Template with Space Theme Perfect for Cat and Dog Gotcha Days or Birthday Pawties(30C)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/36a18053-de6c-47f6-94cc-4560d0ba03f9">
+        <img src="/36A9-1.png" alt="Lush Garden Birthday Card with Cat & Dog on Broomstick – Whimsical Canva Template for Pet Lovers" width="410" height="410"/>
+        <h4>Lush Garden Birthday Card with Cat & Dog on Broomstick – Whimsical Canva Template for Pet Lovers(36A9-1)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/24db820a-5742-4329-9f90-382eaea0a615">
+        <img src="/32D.png" alt="Editable Cat Birthday Invitation Template – Cute Cartoon Cats Canva Design | Pet Adoption Anniversary Party Card" width="410" height="410" />
+        <h4>Editable Cat Birthday Invitation Template – Cute Cartoon Cats Canva Design | Pet Adoption Anniversary Party Card(32D)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/303df1e8-ef11-4e30-880a-a0e2feb71947">
+        <img src="/30A7.png" alt="Whimsical Castle & UFO Pet Birthday Invitation – Editable Canva Template | Magical Dog & Cat Party Card | Printable Pet Celebration Invite" width="410" height="410"/>
+        <h4>Whimsical Castle & UFO Pet Birthday Invitation – Editable Canva Template | Magical Dog & Cat Party Card | Printable Pet Celebration Invite(30A7)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/7d7849d0-53b6-4390-9e73-3e22b95f711d">
+        <img src="/32A.png" alt="Editable Cat Birthday Invitation Template – Cute Watercolor Canva Design | Pet Adoption Anniversary Party Card" width="410" height="410"/>
+        <h4>Editable Cat Birthday Invitation Template – Cute Watercolor Canva Design | Pet Adoption Anniversary Party Card(32A)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/9ba4be07-503e-4c87-a13f-d903cd9603de">
+        <img src="/30D.png" alt="Editable Pet Birthday & Gotcha Day Cards – Instant Download Cat & Dog Greeting Cards For Party Invitation" width="410" height="410"/>
+        <h4>Editable Pet Birthday & Gotcha Day Cards – Instant Download Cat & Dog Greeting Cards For Party Invitation(30D)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+
+</ul>
+
+</section>
+
+</main>
+
+<Footer />
