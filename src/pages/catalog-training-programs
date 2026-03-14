@@ -1,0 +1,153 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<Header />
+
+<main class="main-content">
+
+  <div class="page-hero">
+    <h1 class="hero-title">Catalog</h1>
+    <p class="hero-subtitle">Explore our range of pet cards, planners, and more!</p>
+  </div>
+
+  <nav class="catalog-menu">
+    <ul>
+      <li><a href="/catalog-party-cards" class="catalog-link">Party Cards</a></li>
+      <li><a href="/catalog-gift-tags" class="catalog-link">Gift Tags</a></li>
+      <li><a href="/catalog-memory-keepsake" class="catalog-link">Memory Keepsake DIY</a></li>
+      <li><a href="/catalog-training-programs" class="catalog-link">Training Programs</a></li>
+      <li><a href="/catalog-planners" class="catalog-link">Pet Planners</a></li>
+      <li><a href="/catalog-checklists" class="catalog-link">Pet Checklist</a></li>
+    </ul>
+  </nav>
+
+  <section class="product-category">
+    <h2 class="category-title">Party Cards & Vet Check-Up Cards</h2>
+
+<ul class="product-grid">
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/4c498c41-c630-4807-8838-76b3e3792def">
+        <img src="/01F6.png" alt="Dog Separation Anxiety Training Plan (Printable PDF) – 10-Day Step-by-Step Behavior Tracker" width="410" height="410" />
+        <h4>Dog Separation Anxiety Training Plan (Printable PDF) – 10-Day Step-by-Step Behavior Tracker(01F6)</h4>
+        <p class="price">$12.99 USD | Instant Download</p>
+      </a>
+      </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/2254e899-64c5-4521-8bd3-2ecadfc51d2c">
+        <img src="/01F6-1.png" alt="No More Barking! 14-Day Dog Barking Training Plan (Printable PDF, A4 & US Letter)" width="410" height="410" />
+        <h4>No More Barking! 14-Day Dog Barking Training Plan (Printable PDF, A4 & US Letter)(01F6-1)</h4>
+        <p class="price">$9.99 USD | Instant Download</p>
+      </a>
+      </li>
+  <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/3d1baaeb-a0fa-4daf-b370-b53ed7875443">
+        <img src="/01F7.png" alt="Puppy Potty Training Chart Printable – Dog Potty Schedule, Accident Handling & Housebreaking Guide (A4 & US Letter Sizes)" width="410" height="410" />
+        <h4>Puppy Potty Training Chart Printable – Dog Potty Schedule, Accident Handling & Housebreaking Guide (A4 & US Letter Sizes)(01F7)</h4>
+        <p class="price">$5.49 USD | Instant Download</p>
+      </a>
+      </li>
+</ul>
+
+</section>
+
+</main>
+
+<Footer />
+<style is:global>
+/* 页面整体布局 */
+.main-content {
+  padding: 2rem;
+  max-width: 1300px;
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+}
+
+/* Hero 区域 */
+.page-hero {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.hero-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+.hero-subtitle {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+/* 分类菜单 */
+.catalog-menu ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 3rem;
+  list-style: none;
+  padding: 0;
+}
+.catalog-menu .catalog-link {
+  padding: 0.5rem 1rem;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #333;
+  transition: background-color 0.3s;
+}
+.catalog-menu .catalog-link:hover {
+  background-color: #e0e0e0;
+}
+
+/* 产品列表 */
+.product-category {
+  margin-bottom: 4rem;
+}
+.category-title {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+/* 网格布局 */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+  list-style: none;
+  padding: 0;
+}
+.product-item {
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+.product-item:hover {
+  transform: translateY(-5px);
+}
+.product-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+.product-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.product-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0.5rem 1rem 0.25rem;
+}
+.product-price {
+  font-size: 0.95rem;
+  color: #666;
+  margin: 0 1rem 1rem;
+}
+</style>
