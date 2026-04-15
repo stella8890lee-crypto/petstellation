@@ -3,160 +3,605 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 ---
+<!-- CATALOG 标题 -->
+<section class="catalog-title">
+  <h1>CATALOG</h1>
+</section>
 
-<!doctype html>
-<html lang="en">
-  <head>
-    <BaseHead 
-      title="Catalog | Petstellation"
-      description="Browse all Petstellation digital pet products."
-    />
-  </head>
+  <!-- 类目导航 -->
+  <nav class="category-nav" id="top-categories">
+    <a href="#bundle-products">Bundle Products</a>
+    <a href="#birthday-cards">Party Cards</a>
+    <a href="#gift-tags">Gift Tags</a>
+    <a href="#memory-keepsake">Memory Keepsake DIY</a>
+    <a href="#training">Training Programs</a>
+    <a href="#planners">Pet Planners</a>
+    <a href="#checklists">Pet Checklists</a>
+  </nav>
+</main>
+  <!-- 产品分类展示 -->
+  <section class="products">
+    <!-- 每个类目 -->
+    <div class="category" id="birthday-cards">
 
-  <body>
-    <Header />
+    <div class="category-header">
+  <h2>PARTY CARDS & VET CHECK-UP CARDS & Pet Adoption Certificate</h2>
+  <!-- 桌面显示 -->
+ <a
+    href="https://petstellation.lemonsqueezy.com"
+    target="_blank"
+    class="view-all desktop-only">
+    View all →
+  </a>
 
-    <main class="catalog-page">
-
-      <div class="catalog-container">
-
-        <!-- TITLE -->
-        <h1 class="catalog-title">CATALOG</h1>
-
-        <!-- CATEGORY ROW -->
-        <div class="category-row">
-          <a href="#">Bundle Products</a>
-          <a href="#">Party Cards</a>
-          <a href="#">Gift Tags</a>
-          <a href="#">Memory Keepsake DIY</a>
-          <a href="#">Training Programs</a>
-          <a href="#">Pet Planners</a>
-          <a href="#">Pet Checklists</a>
-        </div>
-
-        <!-- PRODUCT GRID -->
-        <div class="product-grid">
-
-          <!-- PRODUCT CARD 1 -->
-           <a href="https://petstellation.lemonsqueezy.com/buy/18ff54a6-2baa-4675-acca-6348532ec9cb">
+  <!-- 手机显示 -->
+  <button
+    class="mobile-top-btn mobile-only"
+    data-target="top-categories">
+    ↑ Top
+  </button>
+</div>
+      
+      <ul>
+       <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/18ff54a6-2baa-4675-acca-6348532ec9cb">
         <img src="/20A.png" alt="Vet Check-Up Card In 10 Languages – Multilingual Pet Birthday & Wellness Gift" width="410" height="410" />
         <h4>Vet Check-Up Card In 10 Languages – Multilingual Pet Birthday & Wellness Gift(20A)</h4>
         <p class="price">$8.99 USD | Instant Download</p>
       </a>
+      </li>
+      <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/2da0106b-b7b9-4f5d-9668-14c08654c9ee">
+        <img src="/20D.png" alt="Vet Check-Up Card in 10 Languages – Pet Wellness Gift for Dog & Cat Birthdays or Anniversaries" width="410" height="410" />
+        <h4>Vet Check-Up Card in 10 Languages – Pet Wellness Gift for Dog & Cat Birthdays or Anniversaries(20D)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/checkout/buy/d421e18f-15c5-405c-a4e9-3af35b4aaccd">
+        <img src="/25F9.jpg" alt="Minimalist Pet Adoption Certificate Template – Editable Canva Dog Adoption Certificate Printable , Certificate of Adoption for Cat Dog and Other Pets (6 Canva Templates + 3 Printable PDFs)" width="410" height="410" />
+        <h4>Minimalist Pet Adoption Certificate Template – Editable Canva Dog Adoption Certificate Printable , Certificate of Adoption for Cat Dog and Other Pets (6 Canva Templates + 3 Printable PDFs)(25F9)</h4>
+        <p class="price">$4.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/checkout/buy/5f92e6d8-84e6-449e-a3d6-984127875fce">
+        <img src="/25F8.jpg" alt="Vintage Blue Style Elegant Pet Adoption Certificate Template – Editable Canva Dog Adoption Certificate Printable (Vertical Design, 6 Canva Templates + 3 Printable PDFs)" width="410" height="410" />
+        <h4>Vintage Blue Style Elegant Pet Adoption Certificate Template – Editable Canva Dog Adoption Certificate Printable (Vertical Design, 6 Canva Templates + 3 Printable PDFs)(25F8)</h4>
+        <p class="price">$4.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/checkout/buy/9478f738-7b95-4132-aad4-2b1ff3ff9c4d">
+        <img src="/30B1-1.jpg" alt="Printable Sakura Cherry Blossom Invitation Template with Photo Option for Pet Gotcha Days, Adoption Anniversaries, Bithday Parties and other Celebration Events – Watercolor Cute Dog and Cat Party Invite, Canva Editable" width="410" height="410" />
+        <h4>Printable Sakura Cherry Blossom Invitation Template with Photo Option for Pet Gotcha Days, Adoption Anniversaries, Bithday Parties and other Celebration Events – Watercolor Cute Dog and Cat Party Invite, Canva Editable(30B1-1)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/checkout/buy/84ffaef0-4dfa-4dcc-9aed-5bcae66a17b5">
+        <img src="/30B1.jpg" alt="Woodland Stream Pet Birthday Invitation Template – Editable Dog & Cat Party Invite with Photo Option | Watercolor Forest Canva Template" width="410" height="410" />
+        <h4>Woodland Stream Pet Birthday Invitation Template – Editable Dog & Cat Party Invite with Photo Option | Watercolor Forest Canva Template(30B1)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/checkout/buy/cfebf613-d5bd-4adb-a044-1d19a81104d3">
+        <img src="/30B1-2.jpg" alt="A Joyful Spring Garden Pet Party Invitation Where Your Furry Star Becomes The Center Of The Celebration - Printable Dog Or Cat Party Invitation Template With Photo , Pet Birthday Party Invite Canva Editable" width="410" height="410" />
+        <h4>A Joyful Spring Garden Pet Party Invitation Where Your Furry Star Becomes The Center Of The Celebration - Printable Dog Or Cat Party Invitation Template With Photo , Pet Birthday Party Invite Canva Editable(30B1-2)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+ <li>
+      <a href="https://petstellation.lemonsqueezy.com/checkout/buy/5a544476-5a12-4f46-b072-05909348285c">
+        <img src="/30B3.png" alt="Turn Your Pet Into the Party Star with Photo - Editable Canva Birthday Invitation Template for Dogs & Cats" width="410" height="410" />
+        <h4>Turn Your Pet Into the Party Star with Photo - Editable Canva Birthday Invitation Template for Dogs & Cats(30B3)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/checkout/buy/c19a78e0-633c-472d-b534-f1fb7b42c676">
+        <img src="/30A6.jpg" alt="Woodland Cat Dog Birthday Invitation Template – Cherry Blossom Dog & Cat Party Invite | Editable Canva Pet Party Invitation with Photo Option" width="410" height="410" />
+        <h4>Woodland Cat Dog Birthday Invitation Template – Cherry Blossom Dog & Cat Party Invite | Editable Canva Pet Party Invitation with Photo Option(30A6)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+ <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/f6741f3c-da39-401a-b18e-ed4c7b138fcf">
+        <img src="/30C-2.png" alt="Watercolor Galaxy Pet Party Invitation Card – Editable Canva Template with Corgi Spaceship, Cat Astronauts & Custom Photo Option" width="410" height="410" />
+        <h4>Watercolor Galaxy Pet Party Invitation Card – Editable Canva Template with Corgi Spaceship, Cat Astronauts & Custom Photo Option(30C-2)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/b5d726ea-cc9d-4915-9eab-ea9d39f9e88f">
+        <img src="/30A1.png" alt="Editable Pet Birthday Invitation Canva Template – Dog or Cat Party Invite – 5x7” Custom Printable Card" width="410" height="410" />
+        <h4>Editable Pet Birthday Invitation Canva Template – Dog or Cat Party Invite – 5x7” Custom Printable Card(30A1)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+ <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/f60ae1ff-16cc-4562-b5de-e3e47dab93c0">
+        <img src="/30A9.png" alt="Whimsical Garden Party Invitation Card – Editable Canva Template with Cats, Dogs & Photo Option" width="410" height="410" />
+        <h4>Whimsical Garden Party Invitation Card – Editable Canva Template with Cats, Dogs & Photo Option(30A9)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+ <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/dd6c24c5-c719-4944-9aa6-3ecf6ff4a838">
+        <img src="/36A5.png" alt="Elegant Pet Birthday Invitation Card Template – 5x7" Editable Canva Design | British Style Party Invite for Dogs & Cats" width="410" height="410" />
+        <h4>Elegant Pet Birthday Invitation Card Template – 5x7" Editable Canva Design | British Style Party Invite for Dogs & Cats(36A5)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/eae28275-2a16-4478-93b8-c530c0734ec4">
+        <img src="/30A.png" alt="Editable Pet Birthday & Adoption Party Invitation Card – Personalized Cat & Dog “Pawty” Celebration" width="410" height="410" />
+        <h4>Editable Pet Birthday & Adoption Party Invitation Card – Personalized Cat & Dog “Pawty” Celebration(30A)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/b0aba41a-4eb2-4dbc-bc52-0c8e61ca2fc6">
+        <img src="/30B.png" alt="Editable Cosmic Cat & Dog Adoption Anniversary / Birthday Party Invitation Card – Intergalactic Pet Birthday 'Pawty' in the Forest" width="410" height="410" />
+        <h4>Editable Cosmic Cat & Dog Adoption Anniversary / Birthday Party Invitation Card – Intergalactic Pet Birthday "Pawty" in the Forest(30B)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/d51ec4f2-39cb-4d39-a701-8043bcc983cb">
+        <img src="/30A2.png" alt="Whimsical Beach Party Invitation Card – Editable Canva Template with Cats & Dogs, Photo & Text Options" width="410" height="410" />
+        <h4>Whimsical Beach Party Invitation Card – Editable Canva Template with Cats & Dogs, Photo & Text Options(30A2)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/e6d05fe9-89e6-422e-b6ce-762b3bc80f47">
+        <img src="/32A4.png" alt="Whimsical Cat Party Invitation Canva Template – Editable Pet Celebration Invite with Photo Option" width="410" height="410" />
+        <h4>Whimsical Cat Party Invitation Canva Template – Editable Pet Celebration Invite with Photo Option(32A4)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/36a18053-de6c-47f6-94cc-4560d0ba03f9">
+        <img src="/36A9-1.png" alt="Lush Garden Birthday Card with Cat & Dog on Broomstick – Whimsical Canva Template for Pet Lovers" width="410" height="410"/>
+        <h4>Lush Garden Birthday Card with Cat & Dog on Broomstick – Whimsical Canva Template for Pet Lovers(36A9-1)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/54ff02bd-df7b-4e55-afa7-889517f0be84">
+        <img src="/30A3.png" alt="Editable Pet Birthday Invitation Canva Template – British-Inspired Watercolor Card with Dogs & Cats | Custom Text + Optional Photo Insert + Elegant Back Design" width="410" height="410" />
+        <h4>Editable Pet Birthday Invitation Canva Template – British-Inspired Watercolor Card with Dogs & Cats | Custom Text + Optional Photo Insert + Elegant Back Design(30A3)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/e57369af-f08e-4b71-b46d-d8c26b40dd09">
+        <img src="/30C-3.png" alt="Watercolor Pet Birthday Party Invitation Card – Editable Canva Template | Space Theme with Cats & Dog | Custom Text or Photo | Pet Celebration Card" width="410" height="410" />
+        <h4>Watercolor Pet Birthday Party Invitation Card – Editable Canva Template | Space Theme with Cats & Dog | Custom Text or Photo | Pet Celebration Card(30C-3)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/c61f7551-dada-41fb-aef5-972fad605aa3">
+        <img src="/30G.png" alt="Editable Pet Birthday Party Invitation Card Template | Crayon Style Dog & Cat Design | 5x7 Canva Template" width="410" height="410" />
+        <h4>Editable Pet Birthday Party Invitation Card Template | Crayon Style Dog & Cat Design | 5x7 Canva Template(30G)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/2b631095-0d72-455e-80df-2285b9d928bf">
+        <img src="/31A.png" alt="Editable Dog Birthday & Gotcha Day Invitation – Canva Pet Party Card Template" width="410" height="410" />
+        <h4>Editable Dog Birthday & Gotcha Day Invitation – Canva Pet Party Card Template(31A)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/f3b5fa99-dd50-4db9-8b73-8b2eac0e5b50">
+        <img src="/30A5.png" alt="Pet Birthday Party Invitation Template for Canva – Editable 5x7" Card for Dogs and Cats" width="410" height="410" />
+        <h4>Pet Birthday Party Invitation Template for Canva – Editable 5x7" Card for Dogs and Cats(30A5)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/7d7849d0-53b6-4390-9e73-3e22b95f711d">
+        <img src="/32A.png" alt="Editable Cat Birthday Invitation Template – Cute Watercolor Canva Design | Pet Adoption Anniversary Party Card" width="410" height="410"/>
+        <h4>Editable Cat Birthday Invitation Template – Cute Watercolor Canva Design | Pet Adoption Anniversary Party Card(32A)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/4e9559b5-f3c2-4971-a1d4-5398ee1f4e7b">
+        <img src="/31D.png" alt="Editable Dog Birthday & Gotcha Day Invitation – Canva Pet Party Template" width="410" height="410" />
+        <h4>Editable Dog Birthday & Gotcha Day Invitation – Canva Pet Party Template(31D)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/69e5034a-cac2-4f74-bb42-0295b9d97172">
+        <img src="/36A9.png" alt="Elegant Pet Birthday Invitation Template – British Style 5x7" Canva Card with Photo Insert & Optional Back Cover" width="410" height="410" />
+        <h4>Elegant Pet Birthday Invitation Template – British Style 5x7" Canva Card with Photo Insert & Optional Back Cover(36A9)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/05760721-f884-4963-84bf-c3b44f369861">
+        <img src="/30C.png" alt="Editable Pet Birthday Cards – Canva Template with Space Theme Perfect for Cat and Dog Gotcha Days or Birthday Pawties" width="410" height="410" />
+        <h4>Editable Pet Birthday Cards – Canva Template with Space Theme Perfect for Cat and Dog Gotcha Days or Birthday Pawties(30C)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/24db820a-5742-4329-9f90-382eaea0a615">
+        <img src="/32D.png" alt="Editable Cat Birthday Invitation Template – Cute Cartoon Cats Canva Design | Pet Adoption Anniversary Party Card" width="410" height="410" />
+        <h4>Editable Cat Birthday Invitation Template – Cute Cartoon Cats Canva Design | Pet Adoption Anniversary Party Card(32D)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/303df1e8-ef11-4e30-880a-a0e2feb71947">
+        <img src="/30A7.png" alt="Whimsical Castle & UFO Pet Birthday Invitation – Editable Canva Template | Magical Dog & Cat Party Card | Printable Pet Celebration Invite" width="410" height="410"/>
+        <h4>Whimsical Castle & UFO Pet Birthday Invitation – Editable Canva Template | Magical Dog & Cat Party Card | Printable Pet Celebration Invite(30A7)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+<li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/9ba4be07-503e-4c87-a13f-d903cd9603de">
+        <img src="/30D.png" alt="Editable Pet Birthday & Gotcha Day Cards – Instant Download Cat & Dog Greeting Cards For Party Invitation" width="410" height="410"/>
+        <h4>Editable Pet Birthday & Gotcha Day Cards – Instant Download Cat & Dog Greeting Cards For Party Invitation(30D)</h4>
+        <p class="price">$6.99 USD | Instant Download</p>
+      </a>
+    </li>
+  </ul>
+  </div>
+  </section>
+		</main>
 
-          <!-- PRODUCT CARD 2 -->
-          <!-- 复制上面整个 a.product-card 改链接即可 -->
+<style>
+  /* 类目标题 */
+  .category h2 {
+  color: #888888;      /* 浅灰色 */
+  font-weight: bold;    /* 加粗 */
+  font-size: 1.8rem;
+  margin: 2rem 0 1rem 0;
+}
 
-          <!-- PRODUCT CARD 3 -->
+  /* 每个类目的产品列表 */
+  .category ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 固定每行 4 个 */
+  justify-content: center; 
+  gap: 0.3rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 84%;      /* ⭐ 关键：只占页面 84% */
+  margin: 0 auto;      /* 居中，左右自动留白 */
+  }
 
-          <!-- PRODUCT CARD 4 -->
+  /* 如果 h4 在 a 标签里，强制继承 */
+.category ul li a {
+  text-decoration: none;   /* 去掉下划线 */
+  color: inherit;
+}
+  .category ul li:hover h4 {
+  color: #333333;
+  text-align: center;
+}
 
-        </div>
+  .category ul li img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
 
-      </div>
+  .category ul li h4 {
+    margin: 0.2rem 0 0 0;
+    color: #666666;
+    font-size: 1rem;
+  }
 
-    </main>
+.category ul li .price {
+  color: #666666;
+  font-size: 0.95rem;
+  margin: 0.1rem 0 0 0;
+}
 
-    <Footer />
+  /* 响应式布局 */
+  @media (max-width: 1024px) {
+    .category ul {
+      grid-template-columns: repeat(2, 1fr); /* 平板每行 2 个 */
+    }
+  }
 
-    <!-- STYLES -->
-    <style>
-      /* ===== 页面整体宽度（关键） ===== */
-      .catalog-container {
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 50px 24px;
-      }
+  @media (max-width: 720px) {
+    .category ul {
+      grid-template-columns: repeat(2, 1fr); /* 手机每行 2 个 */
+    }
+  }
+.category-header {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  align-items: center;
+  gap: 1.5rem; /* 标题和 View All 之间间距 */
+  margin: 2rem 0 1rem 0;
+}
 
-      /* ===== 标题 ===== */
-      .catalog-title {
-        font-size: 42px;
-        text-align: center;
-        margin-bottom: 30px;
-        letter-spacing: 2px;
-        font-weight: 600;
-      }
+.category-header h2 {
+  color: #888888;
+  font-weight: bold;
+  font-size: 1.8rem;
+  margin: 0;
+}
 
-      /* ===== 分类导航（保持一行） ===== */
-      .category-row {
-        display: flex;
-        flex-wrap: nowrap;
-        overflow-x: auto;
-        gap: 20px;
-        margin-bottom: 45px;
-        white-space: nowrap;
-        justify-content: center;
-      }
+.view-all {
+  font-size: 0.95rem;
+  color: #999999;
+  text-decoration: none;
+}
 
-      .category-row a {
-        font-size: 14px;
-        color: #444;
-        text-decoration: none;
-      }
+.view-all:hover {
+  color: #333333;
+}
 
-      .category-row a:hover {
-        color: #000;
-      }
+.category ul li {
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
 
-      /* ===== 产品网格（对齐首页） ===== */
-      .product-grid {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 28px;
-      }
+.category ul li:hover {
+  transform: translateY(-4px);
+}
 
-      /* ===== 产品卡片 ===== */
-      .product-card {
-        text-decoration: none;
-        color: inherit;
-        display: block;
-      }
+.category ul li img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  transition: box-shadow 0.2s ease;
+}
 
-      /* 图片（重点修复你说的太小问题） */
-      .product-card img {
-        width: 100%;
-        height: auto;
-        border-radius: 12px;
-        display: block;
-      }
+.category ul li:hover img {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
 
-      /* 标题（不要太大） */
-      .product-card h4 {
-        font-size: 15px;
-        margin: 12px 0 6px;
-        font-weight: 500;
-        line-height: 1.4;
-      }
+.category-nav {
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;          /* 稍微收紧一点 */
+  margin: 1.5rem auto;  /* 上下更紧凑 */
+  flex-wrap: nowrap;    /* ✅ 不允许换行 */
+  max-width: 88%;       /* 和你产品区一致 */
+}
 
-      /* 价格（更轻） */
-      .product-card .price {
-        font-size: 14px;
-        color: #666;
-      }
+.category-nav a {
+  text-decoration: none;
+  font-size: 0.95rem;
+  color: #666666;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  background: #f5f5f5;
+  white-space: nowrap;   /* 不允许文字内部换行 */
+}
 
-      /* hover效果（提升质感） */
-      .product-card:hover {
-        transform: translateY(-2px);
-        transition: 0.2s ease;
-      }
+.category-nav a:hover {
+  background: #eaeaea;
+  color: #333333;
+}
 
-      /* ===== 移动端适配 ===== */
-      @media (max-width: 900px) {
-        .product-grid {
-          grid-template-columns: repeat(2, 1fr);
-        }
-      }
+/* =========================
+   手机端：分类导航 2+2+2
+   ========================= */
+@media (max-width: 768px) {
+  .category-nav {
+    flex-wrap: wrap;      /* 允许换行 */
+    max-width: 100%;
+  }
 
-      @media (max-width: 600px) {
-        .product-grid {
-          grid-template-columns: 1fr;
-        }
+  .category-nav a {
+    flex: 0 0 calc(50% - 0.6rem); /* 每行 2 个 */
+    text-align: center;
+    min-width: max-content;      /* 防止文字被挤坏 */
+  }
+}
 
-        .catalog-title {
-          font-size: 32px;
-        }
-      }
-    </style>
+html {
+  scroll-behavior: smooth;
+}
 
-  </body>
+#hero {
+  width: 100%;
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  padding: 0.5rem;
+}
+
+.hero-inner {
+  display: flex;
+  justify-content: center; /* 内部图片居中 */
+  align-items: center;
+  width: 75vw; /* 图片占屏幕 75% */
+}
+
+.hero-inner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.brand-intro {
+  text-align: center;
+  margin: 0.2rem;  
+}
+
+.brand-intro h1 {
+  color: #333333;
+  font-weight: bold;
+  margin: 0; /* 去掉默认 margin */
+  font-size: clamp(1.5rem, 5vw, 2.5rem)
+}
+
+.brand-intro p {
+  color: #888888;
+  font-size: 1rem;
+  margin: 0.3rem 0 0 0; /* 副标题和 h1 紧凑一点 */
+}
+
+.freebie-banner {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+
+  width: 80vw;          /* 你要的中间层宽度 */
+  max-width: 1280px;
+
+  text-align: center;
+  margin: 1.2rem 0 2rem 0;
+}
+
+.freebie-banner img {
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  display: block;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.freebie-banner img:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+}
+
+.freebie-note {
+  margin-top: 0.4rem;
+  font-size: 0.9rem;
+  color: #888888;
+}
+
+/* =========================
+   Back to Top Button
+   ========================= */
+#backToTop {
+  position: fixed;
+  right: 2%;
+  bottom: 30%;
+  z-index: 999;
+
+  padding: 10px 16px;
+  font-size: 18px;
+  cursor: pointer;
+
+  background-color: #ffffff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+
+#backToTop.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+#backToTop:hover {
+  background-color: #f6f6f6;
+}
+
+/* 手机端隐藏 */
+@media (max-width: 768px) {
+  #backToTop {
+    display: none;
+  }
+}
+
+/* ===== 设备控制 ===== */
+.desktop-only {
+  display: inline-block;
+}
+
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .desktop-only {
+    display: none;
+  }
+  .mobile-only {
+    display: inline-block;
+  }
+}
+
+/* ===== 手机端 Top 按钮样式 ===== */
+.mobile-top-btn {
+  font-size: 0.85rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 16px;
+  border: 1px solid #ddd;
+  background: #ffffff;
+  color: #666666;
+  cursor: pointer;
+}
+
+.mobile-top-btn:hover {
+  background: #f3f3f3;
+}
+</style>
+
+ <!-- Back to Top 按钮 -->
+  <button id="backToTop" aria-label="Back to Top">
+    ↑ Back to Top
+  </button>
+<script is:inline>
+  const backToTop = document.getElementById('backToTop');
+  const target = document.getElementById('top-categories');
+
+  if (backToTop && target) {
+    window.addEventListener('scroll', () => {
+      backToTop.classList.toggle('show', window.scrollY > 300);
+    });
+
+    backToTop.addEventListener('click', () => {
+      const offset = window.innerHeight * 0.33; // ⭐ 关键：往下留 33% 视口高度
+      const top =
+        target.getBoundingClientRect().top +
+        window.pageYOffset -
+        offset;
+
+      window.scrollTo({
+        top,
+        behavior: 'smooth',
+      });
+    });
+  }
+
+document.querySelectorAll('.mobile-top-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const id = btn.dataset.target;
+    const target = document.getElementById(id);
+    if (!target) return;
+
+    const offset = window.innerHeight * 0.33;
+
+    const top =
+      target.getBoundingClientRect().top +
+      window.pageYOffset -
+      offset;
+
+    window.scrollTo({
+      top,
+      behavior: 'smooth'
+    });
+  });
+});
+
+</script>
+
+		<Footer />
+	</body>
 </html>
