@@ -1,0 +1,19 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<Header />
+
+<main class="legal-page">
+<h1>Contact Information</h1>
+
+<p>Company Name: Petstellation Inc
+
+Email: info@petstellation.com
+
+Address: Sheridan WY 82801, US</p>
+
+</main>
+
+<Footer />
