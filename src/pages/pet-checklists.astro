@@ -1,0 +1,434 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <BaseHead title="Catalog | Petstellation" />
+</head>
+
+<body>
+
+<Header />
+
+<!-- CATALOG 标题 -->
+<section class="catalog-title">
+  <h1>CATALOG</h1>
+</section>
+
+  <!-- 类目导航 -->
+  <nav class="category-nav" id="top-categories">
+    <a href="/bundle-products">Bundle Products</a>
+    <a href="/party-cards">Party Cards</a>
+    <a href="/gift-tags">Gift Tags</a>
+    <a href="/memory-keepsake">Memory Keepsake DIY</a>
+    <a href="/training-programs">Training Programs</a>
+    <a href="/pet-planners">Pet Planners</a>
+    <a href="/pet-checklists">Pet Checklists</a>
+  </nav>
+</main>
+  <!-- 产品分类展示 -->
+  <section class="products">
+    <!-- 每个类目 -->
+
+    <div class="category" id="checklists">
+     <div class="category-header">
+  <h2>PET CHECKLISTS</h2>
+
+  <!-- 手机显示 -->
+  <button
+    class="mobile-top-btn mobile-only"
+    data-target="top-categories">
+    ↑ Top
+  </button>
+</div>
+      
+      <ul>
+     <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/d544b5bd-a166-441b-b51a-0d35461aedda">
+        <img src="/11D-1.png" alt="Dog Illness Symptom Checklist & Home Care Guide – 10 Common Canine Diseases (Printable PDF)" width="410" height="410" />
+        <h4>Dog Illness Symptom Checklist & Home Care Guide – 10 Common Canine Diseases (Printable PDF)(11D-1)</h4>
+        <p class="price">$5.99 USD | Instant Download</p>
+      </a>
+      </li>
+  <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/e37208ed-30fa-4631-a552-19b91eda1c94">
+        <img src="/12D-1.png" alt="Cat Illness Symptom Checklist & Home Care Guide – 10 Common Feline Diseases (Printable PDF)" width="410" height="410" />
+        <h4>Cat Illness Symptom Checklist & Home Care Guide – 10 Common Feline Diseases (Printable PDF)(12D-1)</h4>
+        <p class="price">$5.99 USD | Instant Download</p>
+      </a>
+      </li>
+  <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/ca5b7c63-d038-4de0-ba1e-3b1af3878fec">
+        <img src="/11D.png" alt="Daily Dog Health Checklist – Simple Daily Checks for a Healthier, Happier Dog" width="410" height="410" />
+        <h4>Daily Dog Health Checklist – Simple Daily Checks for a Healthier, Happier Dog(11D)</h4>
+        <p class="price">$4.99 USD | Instant Download</p>
+      </a>
+      </li>
+  <li>
+      <a href="https://petstellation.lemonsqueezy.com/buy/5f7b38f8-ba29-4d92-8c07-289606413615">
+        <img src="/12D.png" alt="Daily Cat Health Checklist – Your Essential At-Home Pet Wellness Tracker!" width="410" height="410" />
+        <h4>Daily Cat Health Checklist – Your Essential At-Home Pet Wellness Tracker!(12D)</h4>
+        <p class="price">$4.99 USD | Instant Download</p>
+      </a>
+      </li>
+
+      </ul>
+  </div>
+  </section>
+		</main>
+
+<style>
+.catalog-title {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.catalog-title h1 {
+  font-size: clamp(2.2rem, 5vw, 3rem);
+  color: #333333;
+  letter-spacing: 0.08em;
+  margin: 0;
+  font-weight: 600;
+}
+
+  /* 类目标题 */
+  .category h2 {
+  color: #888888;      /* 浅灰色 */
+  font-weight: bold;    /* 加粗 */
+  font-size: 1.8rem;
+  margin: 2rem 0 1rem 0;
+}
+
+  /* 每个类目的产品列表 */
+  .category ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 固定每行 4 个 */
+  justify-content: center; 
+  gap: 0.3rem;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 84%;      /* ⭐ 关键：只占页面 84% */
+  margin: 0 auto;      /* 居中，左右自动留白 */
+  }
+
+  /* 如果 h4 在 a 标签里，强制继承 */
+.category ul li a {
+  text-decoration: none;   /* 去掉下划线 */
+  color: inherit;
+}
+  .category ul li:hover h4 {
+  color: #333333;
+  text-align: center;
+}
+
+  .category ul li img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+
+  .category ul li h4 {
+    margin: 0.2rem 0 0 0;
+    color: #666666;
+    font-size: 1rem;
+  }
+
+.category ul li .price {
+  color: #666666;
+  font-size: 0.95rem;
+  margin: 0.1rem 0 0 0;
+}
+
+  /* 响应式布局 */
+  @media (max-width: 1024px) {
+    .category ul {
+      grid-template-columns: repeat(2, 1fr); /* 平板每行 2 个 */
+    }
+  }
+
+  @media (max-width: 720px) {
+    .category ul {
+      grid-template-columns: repeat(2, 1fr); /* 手机每行 2 个 */
+    }
+  }
+.category-header {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  align-items: center;
+  gap: 1.5rem; /* 标题和 View All 之间间距 */
+  margin: 2rem 0 1rem 0;
+}
+
+.category-header h2 {
+  color: #888888;
+  font-weight: bold;
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+.category ul li {
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.category ul li:hover {
+  transform: translateY(-4px);
+}
+
+.category ul li img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  transition: box-shadow 0.2s ease;
+}
+
+.category ul li:hover img {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.category-nav {
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;          /* 稍微收紧一点 */
+  margin: 1.5rem auto;  /* 上下更紧凑 */
+  flex-wrap: nowrap;    /* ✅ 不允许换行 */
+  max-width: 88%;       /* 和你产品区一致 */
+}
+
+.category-nav a {
+  text-decoration: none;
+  font-size: 0.95rem;
+  color: #666666;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  background: #f5f5f5;
+  white-space: nowrap;   /* 不允许文字内部换行 */
+}
+
+.category-nav a:hover {
+  background: #eaeaea;
+  color: #333333;
+}
+
+/* =========================
+   手机端：分类导航 2+2+2
+   ========================= */
+@media (max-width: 768px) {
+  .category-nav {
+    flex-wrap: wrap;      /* 允许换行 */
+    max-width: 100%;
+  }
+
+  .category-nav a {
+    flex: 0 0 calc(50% - 0.6rem); /* 每行 2 个 */
+    text-align: center;
+    min-width: max-content;      /* 防止文字被挤坏 */
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#hero {
+  width: 100%;
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  padding: 0.5rem;
+}
+
+.hero-inner {
+  display: flex;
+  justify-content: center; /* 内部图片居中 */
+  align-items: center;
+  width: 75vw; /* 图片占屏幕 75% */
+}
+
+.hero-inner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.brand-intro {
+  text-align: center;
+  margin: 0.2rem;  
+}
+
+.brand-intro h1 {
+  color: #333333;
+  font-weight: bold;
+  margin: 0; /* 去掉默认 margin */
+  font-size: clamp(1.5rem, 5vw, 2.5rem)
+}
+
+.brand-intro p {
+  color: #888888;
+  font-size: 1rem;
+  margin: 0.3rem 0 0 0; /* 副标题和 h1 紧凑一点 */
+}
+
+.freebie-banner {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+
+  width: 80vw;          /* 你要的中间层宽度 */
+  max-width: 1280px;
+
+  text-align: center;
+  margin: 1.2rem 0 2rem 0;
+}
+
+.freebie-banner img {
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  display: block;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.freebie-banner img:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+}
+
+.freebie-note {
+  margin-top: 0.4rem;
+  font-size: 0.9rem;
+  color: #888888;
+}
+
+/* =========================
+   Back to Top Button
+   ========================= */
+#backToTop {
+  position: fixed;
+  right: 2%;
+  bottom: 30%;
+  z-index: 999;
+
+  padding: 10px 16px;
+  font-size: 18px;
+  cursor: pointer;
+
+  background-color: #ffffff;
+  color: #333;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+
+#backToTop.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+#backToTop:hover {
+  background-color: #f6f6f6;
+}
+
+/* 手机端隐藏 */
+@media (max-width: 768px) {
+  #backToTop {
+    display: none;
+  }
+}
+
+/* ===== 设备控制 ===== */
+.desktop-only {
+  display: inline-block;
+}
+
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .desktop-only {
+    display: none;
+  }
+  .mobile-only {
+    display: inline-block;
+  }
+}
+
+/* ===== 手机端 Top 按钮样式 ===== */
+.mobile-top-btn {
+  font-size: 0.85rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 16px;
+  border: 1px solid #ddd;
+  background: #ffffff;
+  color: #666666;
+  cursor: pointer;
+}
+
+.mobile-top-btn:hover {
+  background: #f3f3f3;
+}
+</style>
+
+ <!-- Back to Top 按钮 -->
+  <button id="backToTop" aria-label="Back to Top">
+    ↑ Back to Top
+  </button>
+<script is:inline>
+  const backToTop = document.getElementById('backToTop');
+  const target = document.getElementById('top-categories');
+
+  if (backToTop && target) {
+    window.addEventListener('scroll', () => {
+      backToTop.classList.toggle('show', window.scrollY > 300);
+    });
+
+    backToTop.addEventListener('click', () => {
+      const offset = window.innerHeight * 0.33; // ⭐ 关键：往下留 33% 视口高度
+      const top =
+        target.getBoundingClientRect().top +
+        window.pageYOffset -
+        offset;
+
+      window.scrollTo({
+        top,
+        behavior: 'smooth',
+      });
+    });
+  }
+
+document.querySelectorAll('.mobile-top-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const id = btn.dataset.target;
+    const target = document.getElementById(id);
+    if (!target) return;
+
+    const offset = window.innerHeight * 0.33;
+
+    const top =
+      target.getBoundingClientRect().top +
+      window.pageYOffset -
+      offset;
+
+    window.scrollTo({
+      top,
+      behavior: 'smooth'
+    });
+  });
+});
+
+</script>
+
+		<Footer />
+	</body>
+</html>
