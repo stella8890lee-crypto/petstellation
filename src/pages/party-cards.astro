@@ -1,0 +1,190 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead 
+      title="Catalog | Petstellation"
+      description="Explore all Petstellation digital products by category."
+    />
+  </head>
+
+  <body>
+
+    <Header />
+
+    <main class="catalog-page">
+
+      <!-- HERO -->
+      <section class="catalog-hero">
+        <h1>CATALOG</h1>
+        <p>Explore all product categories</p>
+      </section>
+
+      <!-- CATEGORY GRID -->
+      <section class="catalog-grid">
+
+        <a class="catalog-card" href="/bundle-products">Bundle Products</a>
+        <a class="catalog-card" href="/party-cards">Party Cards</a>
+        <a class="catalog-card" href="/gift-tags">Gift Tags</a>
+        <a class="catalog-card" href="/memory-keepsake-diy">Memory Keepsake DIY</a>
+        <a class="catalog-card" href="/training-programs">Training Programs</a>
+        <a class="catalog-card" href="/pet-planners">Pet Planners</a>
+        <a class="catalog-card" href="/pet-checklists">Pet Checklists</a>
+
+      </section>
+
+      <!-- PRODUCTS SECTION（这里就是你要放产品的地方） -->
+      <section class="products-section">
+
+        <h2>Featured Products</h2>
+
+        <div class="product-grid">
+
+          <!-- PRODUCT CARD 1 -->
+          <a href="https://petstellation.lemonsqueezy.com/buy/18ff54a6-2baa-4675-acca-6348532ec9cb">
+        <img src="/20A.png" alt="Vet Check-Up Card In 10 Languages – Multilingual Pet Birthday & Wellness Gift" width="410" height="410" />
+        <h4>Vet Check-Up Card In 10 Languages – Multilingual Pet Birthday & Wellness Gift(20A)</h4>
+        <p class="price">$8.99 USD | Instant Download</p>
+      </a>
+
+          <!-- PRODUCT CARD 2 -->
+          
+          <!-- PRODUCT CARD 3 -->
+          
+
+          <!-- PRODUCT CARD 4 -->
+         
+
+        </div>
+
+      </section>
+
+    </main>
+
+    <Footer />
+
+  </body>
+</html>
+
+<style>
+
+  .catalog-page {
+    padding: 60px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  /* HERO */
+  .catalog-hero {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .catalog-hero h1 {
+    font-size: 48px;
+    margin: 0;
+    letter-spacing: 2px;
+  }
+
+  .catalog-hero p {
+    color: #777;
+    margin-top: 10px;
+  }
+
+  /* CATEGORY GRID */
+  .catalog-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    margin-bottom: 60px;
+  }
+
+  .catalog-card {
+    padding: 18px;
+    border: 1px solid #eee;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    background: #fff;
+    transition: 0.2s;
+  }
+
+  .catalog-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  }
+
+  /* PRODUCTS */
+  .products-section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+
+  .product-card {
+    border: 1px solid #eee;
+    border-radius: 14px;
+    padding: 15px;
+    text-decoration: none;
+    color: #333;
+    background: #fff;
+    transition: 0.2s;
+  }
+
+  .product-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  }
+
+  .product-image {
+    height: 140px;
+    background: #f5f5f5;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+
+  .product-card h3 {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+
+  .product-card p {
+    font-size: 13px;
+    color: #777;
+    margin: 0;
+  }
+
+  /* RESPONSIVE */
+  @media (max-width: 900px) {
+    .catalog-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .product-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 500px) {
+    .catalog-grid,
+    .product-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .catalog-hero h1 {
+      font-size: 36px;
+    }
+  }
+
+</style>
