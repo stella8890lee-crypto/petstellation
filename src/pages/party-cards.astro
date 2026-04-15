@@ -3,6 +3,17 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <BaseHead title="Catalog | Petstellation" />
+</head>
+
+<body>
+
+<Header />
+
 <!-- CATALOG 标题 -->
 <section class="catalog-title">
   <h1>CATALOG</h1>
@@ -261,15 +272,16 @@ import Footer from '../components/Footer.astro';
 <style>
 .catalog-title {
   text-align: center;
-  margin-top: 1.2rem;
-  margin-bottom: 0.6rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 
 .catalog-title h1 {
-  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  font-size: clamp(2.2rem, 5vw, 3rem);
   color: #333333;
   letter-spacing: 0.08em;
   margin: 0;
+  font-weight: 600;
 }
 
   /* 类目标题 */
