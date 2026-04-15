@@ -5,39 +5,32 @@ import Footer from '../components/Footer.astro';
 ---
 
 <BaseHead 
-title="Contact Information | Petstellation"
-description="Contact Petstellation for support or business inquiries."
+  title="Contact Information | Petstellation"
+  description="Contact Petstellation for support or business inquiries."
 />
 
 <Header />
 
 <main class="legal-page">
 
-<h1>Contact Information</h1>
+  <h1>Contact Information</h1>
 
-<p>
-If you have any questions regarding your purchase or our digital products,
-please contact us using the information below.
-</p>
+  <p>
+    If you have any questions regarding your purchase or our digital products,
+    please contact us using the information below.
+  </p>
 
-<h2>Email</h2>
+  <h2>Email</h2>
+  <p>petstellation@gmail.com</p>
 
-<p>
-petstellation@gmail.com
-</p>
+  <h2>Customer Support</h2>
+  <p>We aim to respond to all inquiries within 48 hours.</p>
 
-<h2>Customer Support</h2>
+  <h2>Business Name</h2>
+  <p>Petstellation Inc</p>
 
-<p>
-We aim to respond to all inquiries within 48 hours.
-</p>
-
-<h2>Business Name</h2>
-
-<p>
-Petstellation Inc
-</p>
-<p>Address: Sheridan, WY 82801, United States</p>
+  <h2>Address</h2>
+  <p>Sheridan, WY 82801, United States</p>
 
 </main>
 
