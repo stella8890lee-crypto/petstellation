@@ -61,7 +61,7 @@ const today = new Date();
     </svg>
   </a>
 </div>
-<p class="footer-legal">
+<div class="footer-legal">
   <a href="/privacy-policy">Privacy Policy</a>
   <span class="dot">•</span>
   <a href="/refund-policy">Refund Policy</a>
@@ -69,7 +69,7 @@ const today = new Date();
   <a href="/terms-of-service">Terms Of Service</a>
   <span class="dot">•</span>
   <a href="/contact-information">Contact Information</a>
-</p>
+</div>
 </footer>
 <style>
 	footer {
@@ -102,22 +102,26 @@ const today = new Date();
 	}
 
 .footer-legal {
-  margin-top: 1.8em;
+  margin-top: 0.4em;   /* 与上面行距一致 */
   font-size: 0.9em;
   color: rgb(var(--gray));
 }
 
 .footer-legal a {
-  color: rgb(var(--gray));
+  color: rgb(var(--gray));   /* 强制浅灰色 */
   text-decoration: none;
 }
 
+.footer-legal a:visited {
+  color: rgb(var(--gray));   /* 防止访问后变紫色 */
+}
+
 .footer-legal a:hover {
-  text-decoration: underline;
+  color: rgb(var(--gray-dark));
 }
 
 .footer-legal .dot {
   margin: 0 0.5em;
-  color: rgb(var(--gray-dark));
+  color: rgb(var(--gray));
 }
 </style>
