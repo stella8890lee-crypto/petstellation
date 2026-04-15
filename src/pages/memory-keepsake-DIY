@@ -34,7 +34,7 @@ import Footer from '../components/Footer.astro';
   <section class="products">
     <!-- 每个类目 -->
 
-    <div class="category" id="memory-keepsake-DIY">
+    <div class="category" id="memory-keepsake">
      <div class="category-header">
   <h2>MEMORY-KEEPSAKE / SCRAPBOOK DIY</h2>
 
