@@ -5,16 +5,23 @@ import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 
-<BaseHead title="PAGE TITLE | Petstellation" description="PAGE DESCRIPTION" />
+<BaseHead 
+  title="Contact Information | Petstellation" 
+  description="Contact Petstellation for customer support or business inquiries." 
+/>
 
 <Header />
 
 <main class="legal-page">
 
-    Company Name: Petstellation Inc<br>
-    Email: info@petstellation.com<br>
-    Address: Sheridan WY 82801, US
- 
+<h1>Contact Information</h1>
+
+<p><strong>Company Name:</strong> Petstellation Inc</p>
+
+<p><strong>Email:</strong> info@petstellation.com</p>
+
+<p><strong>Address:</strong> Sheridan, WY 82801, United States</p>
+
 </main>
 
 <Footer />
