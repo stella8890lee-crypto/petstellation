@@ -748,6 +748,38 @@ document.querySelectorAll('.mobile-top-btn').forEach(btn => {
   });
 });
 
+document.querySelectorAll(".youtube-lazy").forEach(el => {
+
+  el.addEventListener("click", () => {
+
+    const id = el.dataset.videoId;
+
+    const iframe = document.createElement("iframe");
+
+    iframe.src =
+      "https://www.youtube.com/embed/" +
+      id +
+      "?autoplay=1&rel=0";
+
+    iframe.title="YouTube video player";
+
+    iframe.allow=
+      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+
+    iframe.allowFullscreen=true;
+
+    iframe.style.width="100%";
+    iframe.style.height="100%";
+    iframe.style.borderRadius="14px";
+    iframe.style.border="none";
+
+    el.innerHTML="";
+    el.appendChild(iframe);
+
+  });
+
+});
+
 </script>
 
 		<Footer />
