@@ -140,7 +140,7 @@ If your dog:
 👉 This is likely anxiety-related.
 
 You should also read:  
-<a href="/blog/stop-dog-barking-guide" style="color:#7B8F00;font-weight:bold;">
+<a href="/blog/dog-barking-training" style="color:#7B8F00;font-weight:bold;">
 Step-by-Step Guide to Reducing Dog Barking
 </a>
 
@@ -221,8 +221,8 @@ Often yes, especially if it starts immediately after leaving.
 ## 🔗 Related Guides
 
 - <a href="/blog/dog-separation-anxiety">Dog Separation Anxiety Guide</a>  
-- <a href="/blog/stop-dog-barking-guide">How to Stop Dog Barking</a>  
-- <a href="/blog/puppy-potty-training-guide">Puppy Potty Training Guide</a>  
+- <a href="/blog/dog-barking-training">How to Stop Dog Barking</a>  
+- <a href="/blog/puppy-potty-training">Puppy Potty Training Guide</a>  
 
 ---
 
