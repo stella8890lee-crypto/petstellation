@@ -169,13 +169,13 @@ This step-by-step guide gives you structure, clarity, and results.
     Get the 14-Day Quiet Dog Plan
   </a>
 </p>
-<p style="text-align:left; margin-top:0.8em; font-size:1em; color:#444;">
+<p style="text-align:left; margin-top:0.8em; font-size:1em; color:#444; padding-left:10px;">
 ✔️ 14-day step-by-step training<br>
 ✔️ Reduce barking triggers & build calm behavior<br>
 ✔️ Only 10–15 minutes per day
 </p>
 
-<p style="font-size:0.95em; color:#666; margin-top:1em; text-align:left;">
+<p style="font-size:0.95em; color:#666; margin-top:1em; text-align:left; padding-left:10px;">
 💡 Best for everyday barking issues, attention barking, and mild anxiety-related barking.<br>
 For severe separation anxiety (panic, nonstop distress), combine with a dedicated anxiety plan.
 </p>
