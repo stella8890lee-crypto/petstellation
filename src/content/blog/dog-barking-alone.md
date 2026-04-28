@@ -159,9 +159,22 @@ If you live in an apartment:
 
 ---
 
-## 🧩 The Easiest Way to Fix This (Done-for-You Plan)
+## 🧩 A Simple Plan That Helps Reduce Barking (Even When You're Away)
 
-If you don’t want to guess what to do each day…
+If your dog barks when left alone, the root issue is usually a mix of:
+
+- Lack of calm behavior training  
+- Overreaction to triggers  
+- In some cases, mild separation-related stress  
+
+👉 That means you don’t always need a “complex anxiety program” to start seeing improvement.
+
+Instead, what most dogs need first is:
+✔️ Clear structure  
+✔️ Daily calm training  
+✔️ Consistent reinforcement  
+
+That’s exactly what this plan focuses on.
 
 We created a simple, structured solution:
 
@@ -182,7 +195,10 @@ Only 10–15 minutes per day.
     Get the 14-Day Quiet Dog Plan
   </a>
 </p>
-
+<p style="font-size:0.95em; color:#666; margin-top:1em;">
+💡 Note: This plan is designed to reduce everyday barking behaviors and improve calm responses.  
+For severe separation anxiety (panic, self-harm, nonstop distress), combining this with a dedicated anxiety training plan or professional guidance is recommended.
+</p>
 ---
 
 ## ❓ FAQ: Dog Barking When Left Alone
