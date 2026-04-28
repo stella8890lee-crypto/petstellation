@@ -1,7 +1,7 @@
 ---
-<title>Dog Birthday Party Ideas in Los Angeles | Printable Invitations & Gift Tags</title>
-<meta name="description" content="Plan the perfect dog birthday party in Los Angeles with printable invitations, gift tags, and decoration ideas. Instant download Canva templates for pet lovers.">
-pubDate: "May 1 2026"
+title: "Dog Birthday Party Ideas in Los Angeles | Printable Invitations & Gift Tags"
+description: "Plan the perfect dog birthday party in Los Angeles with printable invitations, gift tags, and decoration ideas. Instant download Canva templates for pet lovers."
+pubDate: "2026-05-01"
 ---
 
 <h1>Dog Birthday Party Ideas in Los Angeles</h1>
