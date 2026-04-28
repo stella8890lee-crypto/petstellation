@@ -166,6 +166,16 @@ We have organized the necessary training content and reminders into concise PDF 
     Get the Dog Separation Anxiety Training Plan
   </a>
 </p>
+<p style="text-align:left; margin-top:0.8em; font-size:1em; color:#444; padding-left:10px">
+✔️ 10-day structured training plan<br>
+✔️ Daily progress tracker included<br>
+✔️ Designed for gradual independence training
+</p>
+
+<p style="font-size:0.95em; color:#666; margin-top:1em; text-align:left; padding-left:10px">
+💡 Ideal for mild to moderate separation-related behaviors.<br>
+For severe anxiety (self-harm, extreme distress), consult a certified behaviorist alongside training.
+</p>
 
 10-Day Step-by-Step Behavior Tracker is also included. Print it out, one page is a day's training content, and you can record the training results in the tracking form, which is very convenient.
 
