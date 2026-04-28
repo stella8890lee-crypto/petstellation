@@ -169,7 +169,8 @@ If your dog barks when left alone, the root issue is usually a mix of:
 
 👉 That means you don’t always need a “complex anxiety program” to start seeing improvement.
 
-Instead, what most dogs need first is:
+Instead, what most dogs need first is:                            
+
 ✔️ Clear structure  
 ✔️ Daily calm training  
 ✔️ Consistent reinforcement  
