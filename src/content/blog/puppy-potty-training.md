@@ -227,6 +227,17 @@ Common reasons include inconsistent schedule, incomplete cleaning, or lack of su
   </a>
 </p>
 
+<p style="text-align:left; margin-top:0.8em; font-size:1em; color:#444; padding-left:10px;">
+✔️ Clear daily potty schedule<br>
+✔️ Accident handling guide<br>
+✔️ Works for puppies & first-time owners
+</p>
+
+<p style="font-size:0.95em; color:#666; margin-top:1em; text-align:left; padding-left:10px;">
+💡 Best for structured home training and routine building.<br>
+For medical-related accidents, consult your veterinarian first.
+</p>
+
 Dog Potty Schedule, Accident Handling & Housebreaking Guide (A4 & US Letter Sizes) are included. Print and pin it near your puppy’s crate, on the fridge, or training station. One quick glance and you’ll know exactly what to do—no more second guessing.
 
 ---
