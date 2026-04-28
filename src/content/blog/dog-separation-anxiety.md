@@ -255,6 +255,14 @@ Only if properly trained. A crate should feel safe, not restrictive or stressful
 }
 </style>
 
+<h2>Related Dog Behavior Problems</h2>
+
+<p>
+👉 <a href="/blog/dog-barking-alone">Dog Barking When Left Alone: Causes & Fixes</a><br>
+👉 <a href="/blog/dog-barking-training">Stop Dog Barking: Step-by-Step Guide</a><br>
+👉 <a href="/blog/puppy-potty-training">Puppy Potty Training Guide</a>
+</p>
+
 <p style="text-align:center; margin-top:2em;">
   <a href="/blog"
      style="
