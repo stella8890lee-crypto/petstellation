@@ -18,7 +18,7 @@ to create invitations, gift tags, and decorations in minutes.</p>
 
 <p>In this guide, you’ll find simple, stylish, and stress-free ideas — including printable dog birthday invitations, decorations, and gift tags that you can download instantly.</p>
 
-<img src="/public/dog-birthday-invitation.jpg"
+<img src="/dog-birthday-invitation.jpg"
      alt="printable dog birthday invitation template Los Angeles party ideas"
      style="width:100%; border-radius:12px; margin:20px 0;" />
 
@@ -51,7 +51,7 @@ are perfect for hosting a dog birthday party.</p>
 
 <p>👉 You can customize everything in minutes and print at home — no waiting, no shipping.</p>
 
-<img src="/public/dog-party-decoration.jpg"
+<img src="/dog-party-decoration.jpg"
      alt="dog birthday party decoration ideas outdoor Los Angeles park"
      style="width:100%; border-radius:12px; margin:20px 0;" />
 
@@ -155,7 +155,7 @@ and
 <a href="/gift-tags">printable gift tags</a> 
 to create a cohesive party setup.</p>
 
-<img src="/public/dog birthday party los angeles.jpg"
+<img src="/dog birthday party los angeles.jpg"
      alt="matching printable dog birthday invitation and gift tags set"
      style="width:100%; border-radius:12px; margin:20px 0;" />
 
