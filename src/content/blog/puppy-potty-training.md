@@ -134,7 +134,8 @@ E.g., 3-month-old = 4 hours max between potty breaks
 - Never punish—your dog won’t understand
 - Clean with an enzyme-based cleaner (removes all odor cues)
 
-**Recommended:** Nature’s Miracle Enzymatic Cleaner                         
+**Recommended:** Nature’s Miracle Enzymatic Cleaner          
+
 **Prevent Repeats:** Spray citrus-scented deterrent on previously soiled spots (Dogs dislike citrus)
 
 ## ⚠️ 4. Most Common Potty Training Mistakes
