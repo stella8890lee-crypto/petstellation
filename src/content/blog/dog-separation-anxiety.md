@@ -5,6 +5,65 @@ pubDate: "Jun 5 2025"
 heroImage: "/dog separation anxiety.jpg"
 ---
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  color: #222;
+  background: #fff;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* 标题系统 */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 16px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 40px;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+/* 图片统一 */
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  margin: 20px 0;
+}
+
+/* 手机优化 */
+@media (max-width: 768px) {
+  .container {
+    padding: 14px;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+}
+</style>
+
+<div class="container">
+
 Separation anxiety in pets—especially in dogs—is one of the most common behavioral issues. When left alone, dogs may show excessive anxiety or even destructive behaviors such as barking, chewing, digging, or urinating indoors. Here's a step-by-step guide to effective and science-backed solutions for treating dog separation anxiety.
 
 Step 1: Foundational Adjustments – Minimize Triggers
@@ -151,3 +210,4 @@ If your dog’s separation anxiety does not improve with these methods, consult 
     ← Back to Blog
   </a>
 </p>
+</div>
