@@ -204,7 +204,7 @@ Whether you're in Los Angeles or nearby areas, using editable templates is the f
 Create a beautiful party setup in minutes — no design skills needed.</p>
 
 <a href="https://petstellation.com/party-cards"
-   style="display:inline-block; padding:14px 22px; background:#000; color:#fff; text-decoration:none; border-radius:8px; margin-top:10px;">
+   style="display:inline-block; padding:14px 22px; background:#000; color:#A3C285; text-decoration:none; border-radius:8px; margin-top:10px;">
    Shop Printable Dog Birthday Templates
 </a>
 
