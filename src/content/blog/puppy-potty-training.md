@@ -256,6 +256,13 @@ Dog Potty Schedule, Accident Handling & Housebreaking Guide (A4 & US Letter Size
   </a>
 </div>
 
+<h2>Related Dog Training Guides</h2>
+
+<p>
+👉 <a href="/blog/dog-separation-anxiety">Dog Separation Anxiety: Causes & Solutions</a><br>
+👉 <a href="/blog/dog-barking-training">How to Stop Dog Barking Without Stress</a>
+</p>
+
 <!-- BACK BUTTON -->
 <div style="text-align:center; margin-top:2em;">
   <a href="/blog" style="color:#777;text-decoration:none;font-size:18px;">
