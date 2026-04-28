@@ -182,7 +182,6 @@ Be alert for these early warning signs:
 
 If things aren’t improving, first rule out health issues (like bladder infections or anxiety), then adjust your training method accordingly.
 
-</div>
 ---
 
 <p style={{textAlign:'center', margin:'1.5em 0'}}>
@@ -264,4 +263,5 @@ Dog Potty Schedule, Accident Handling & Housebreaking Guide (A4 & US Letter Size
   >
     ← Back to Blog
   </a>
+</div>
 </div>
