@@ -4,6 +4,64 @@ description: "You can help your dog learn when to bark and when to stay calm —
 pubDate: "Jun 28 2025"
 heroImage: "/dog barking training.jpg"
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  color: #222;
+  background: #fff;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* 标题系统 */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 16px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 40px;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+/* 图片统一 */
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  margin: 20px 0;
+}
+
+/* 手机优化 */
+@media (max-width: 768px) {
+  .container {
+    padding: 14px;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+}
+</style>
+
+<div class="container">
 
 If you’ve ever found yourself apologizing to neighbors, turning up the TV to drown out barking, or feeling helpless when your dog won’t stop yapping at every little sound… you’re not alone.
 
@@ -169,3 +227,4 @@ to download the **No More Barking! 14-Day Quiet Dog Training Plan (PDF)** and br
     ← Back to Blog
   </a>
 </p>
+</div>
