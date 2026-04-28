@@ -89,25 +89,25 @@ Don’t worry—you’re not alone. Whether you’re raising your very first pup
 
 ### 📍 Step 1: Designate a Fixed Potty Spot
 
-**Outdoor training:** Take your puppy to the same spot (grass/tree) each time. Smell cues help them understand what to do.
+**Outdoor training:** Take your puppy to the same spot (grass/tree) each time. Smell cues help them understand what to do.                              
 **Indoor training:** 
 - Use an exercise pen and fully line the floor with puppy pads
 - Gradually reduce the pads to one over time
 
 **Potty Pad Reduction Plan:**
-
 | Time Period | Potty Pad Setup |
 |------------|----------------|
 | Days 1–3   | Full coverage |
 | Days 4–7   | Reduce to 2/3 |
 | Week 2+    | 1 pad only |
 
+
 ### 👀 Step 2: Recognize Potty Signals
 Be alert for these early warning signs: 
 - Circling or sniffing the ground
 - Whining or pawing at the door
-- 10–15 minutes after eating or drinking
-**Timing is everything:** bring them to the potty spot within 5 seconds!
+- 10–15 minutes after eating or drinking                   
+- **Timing is everything:** bring them to the potty spot within 5 seconds!
 
 ### 🎉 Step 3: Immediate Reward Reinforcement
 - After successful pottying: give enthusiastic praise + treats within 3 seconds
