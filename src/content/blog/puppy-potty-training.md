@@ -89,8 +89,12 @@ Don’t worry—you’re not alone. Whether you’re raising your very first pup
 
 ### 📍 Step 1: Designate a Fixed Potty Spot
 
-Outdoor training: same spot every time.  
-Indoor training: puppy pads + gradual reduction.
+**Outdoor training:** Take your puppy to the same spot (grass/tree) each time. Smell cues help them understand what to do.
+**Indoor training:** 
+- Use an exercise pen and fully line the floor with puppy pads
+- Gradually reduce the pads to one over time
+
+**Potty Pad Reduction Plan:**
 
 | Time Period | Potty Pad Setup |
 |------------|----------------|
@@ -99,32 +103,75 @@ Indoor training: puppy pads + gradual reduction.
 | Week 2+    | 1 pad only |
 
 ### 👀 Step 2: Recognize Potty Signals
-- Circling  
-- Sniffing  
-- Whining  
-- After eating (10–15 min)
+Be alert for these early warning signs: 
+- Circling or sniffing the ground
+- Whining or pawing at the door
+- 10–15 minutes after eating or drinking
+**Timing is everything:** bring them to the potty spot within 5 seconds!
 
-### 🎉 Step 3: Reward Immediately
-Treat within 3 seconds after success.
+### 🎉 Step 3: Immediate Reward Reinforcement
+- After successful pottying: give enthusiastic praise + treats within 3 seconds
+- If they go in the wrong spot: don’t yell—calmly clean it up to prevent fear-based hiding behavior
 
-### 🕒 Step 4: Consistent Schedule
-- Morning wake-up  
-- After meals  
-- After play  
-- Before bed  
+### 🕒 Step 4: Stick to a Consistent Potty Schedule
+| Routine Time | Action Required | 
+|-----------------|----------------| 
+| After waking up | Go straight to potty area | 
+| After meals | Wait at potty spot for 10 minutes | 
+| After playtime | Lead to potty spot | 
+| Before bedtime | Last potty chance of the day |
+**Bladder Tip:** Max holding time = Puppy’s age (months) + 1
+E.g., 3-month-old = 4 hours max between potty breaks
 
-## 🧼 3. Accident Handling
-- Never punish  
-- Clean with enzyme cleaner  
-- Remove odor completely  
+## 🧼 3. How to Handle Potty Accidents
 
-## ⚠️ 4. Common Mistakes
-- Scolding accidents ❌  
-- Not using enzyme cleaner ❌  
-- Inconsistent schedule ❌  
+**If You Catch Them in the Act:** 
+- Interrupt gently (e.g., clap your hands)
+- Pick them up and move to the correct spot
+- If they finish there, still give a treat
 
-## 🗝️ 5. Success Formula
-Consistency + timing + reward = success
+**If You Find It Later:** 
+- Never punish—your dog won’t understand
+- Clean with an enzyme-based cleaner (removes all odor cues)
+
+**Recommended:** Nature’s Miracle Enzymatic Cleaner 
+**Prevent Repeats:** Spray citrus-scented deterrent on previously soiled spots (Dogs dislike citrus)
+
+## ⚠️ 4. Most Common Potty Training Mistakes
+| Mistake | Do This Instead | Why It Works | 
+|---------|----------------|--------------| 
+| Scolding for accidents | Ignore mistakes, reward good | Fear leads to hidden accidents | 
+| Using regular cleaners | Use enzyme-based solutions | Regular cleaners leave smell behind | 
+| Keeping pads long-term | Gradually transition outside | Adult dogs can get pad-dependent | 
+| Playtime right after meals | Potty first, then play | Excitement speeds digestion → accidents |
+
+## 🔧 5. Advanced Challenges & Fixes 
+**Marking Behavior (Leg Lifting)** 
+- Common after 6 months (especially in males)
+- Solution: Neuter to reduce hormone-driven marking or use a male dog belly band outdoors
+
+**Rainy Day Refusals** 
+- Set up a temporary balcony potty with artificial turf
+- PETMAKER Indoor Dog Potty is a good choice
+
+**Incontinence in Senior Dogs** 
+- Rule out medical causes (e.g., kidney issues, diabetes)
+- Use doggy diapers at night - Recommended brand: Simple Solution
+
+## 🗝️ 6. Key Success Factors 
+1. **Time Commitment:** Puppies: 6–8 potty trips/day, Adults: 3–4 trips/day
+2. **Odor Elimination:** Always use enzyme cleaners to prevent re-marking
+3. **Health Monitoring:** Frequent accidents could signal UTIs, especially in females
+
+**Easy-to-Remember Training Mantra:** 
+- “After meals and naps, go watch and act. 
+- Catch signals fast, rewards must last. 
+- Ignore mistakes, clean up well—
+- Potty training will go swell! 
+
+✅ In 2 Weeks, Expect 90% Success! Stick to this plan, and your puppy will be mostly house-trained in just 14 days. 
+
+If things aren’t improving, first rule out health issues (like bladder infections or anxiety), then adjust your training method accordingly.
 
 ---
 
@@ -139,7 +186,7 @@ Consistency + timing + reward = success
   </a>
 </p>
 
-Dog Potty Schedule, Accident Handling & Housebreaking Guide included.
+Dog Potty Schedule, Accident Handling & Housebreaking Guide (A4 & US Letter Sizes) are included. Print and pin it near your puppy’s crate, on the fridge, or training station. One quick glance and you’ll know exactly what to do—no more second guessing.
 
 ---
 
@@ -149,7 +196,7 @@ Dog Potty Schedule, Accident Handling & Housebreaking Guide included.
     🎁 Free Photo Tag Canva Template
   </p>
   <p style="color:#555;margin-bottom:1.5em;">
-    Customize a sweet tag for your pet
+    Download a simple, customizable photo tag template to create a sweet, personal tag for your pet.
   </p>
 
   <a href="https://subscribepage.io/SAWdyR" target="_blank" class="free-btn">
