@@ -6,6 +6,65 @@ pubDate: "2026-04-28"
 heroImage: "/dog birthday party los angeles.jpg"
 ---
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  color: #222;
+  background: #fff;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* 标题系统 */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 16px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 40px;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+/* 图片统一 */
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  margin: 20px 0;
+}
+
+/* 手机优化 */
+@media (max-width: 768px) {
+  .container {
+    padding: 14px;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+}
+</style>
+
+<div class="container">
+
 <p><strong>🎉 Want a quick and easy setup?</strong> 
 Use our <a href="https://petstellation.com/party-cards">printable dog birthday templates</a> 
 to create invitations, gift tags, and decorations in minutes.</p>
@@ -196,6 +255,7 @@ to create a cohesive party setup.</p>
     ← Back to Blog
   </a>
 </p>
+</div>
 
 <!-- FAQ Structured Data -->
 <script type="application/ld+json">
