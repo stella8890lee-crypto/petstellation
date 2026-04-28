@@ -259,7 +259,7 @@ Most dogs show improvement within 1–2 weeks with consistent daily practice.</p
 <h2>Related Training Guides</h2>
 
 <p>
-👉 <a href="/blog/dog-barking-when-alone">Dog Barking When Left Alone</a><br>
+👉 <a href="/blog/dog-barking-alone">Dog Barking When Left Alone</a><br>
 👉 <a href="/blog/dog-separation-anxiety">Dog Separation Anxiety Guide</a><br>
 👉 <a href="/blog/puppy-potty-training">Puppy Potty Training Guide</a>
 </p>
