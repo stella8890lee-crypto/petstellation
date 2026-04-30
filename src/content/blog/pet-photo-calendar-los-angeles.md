@@ -1,11 +1,35 @@
 ---
+import ProductGrid from "../components/ProductGrid.astro";
+
+const products = [
+  {
+    link: "https://petstellation.lemonsqueezy.com/checkout/buy/098c991a-799a-40ea-9db6-48c38ca23433",
+    image: "/00B6.jpg",
+    alt: "Pet Photo Calendar Template Los Angeles gift",
+    name: "Editable Pet Photo Calendar 2026",
+    price: "$9.99 USD"
+  },
+  {
+    link: "https://petstellation.lemonsqueezy.com/checkout/buy/6eee2940-0ca4-4478-aaeb-0ff226ef18fd",
+    image: "/00D3.jpg",
+    alt: "Pet Memory Book printable Canva template",
+    name: "Pet Memory Book",
+    price: "$6.99 USD"
+  },
+  {
+    link: "https://petstellation.lemonsqueezy.com/buy/affef5bd-c6ad-422b-8ad8-a590363decaf",
+    image: "/00D6.png",
+    alt: "Pet Memory Bundle Canva template",
+    name: "Pet Memory Bundle",
+    price: "$19.99 USD"
+  }
+];
+
 title: "Mother’s Day & Father’s Day Gift Ideas in Los Angeles | Custom Pet Photo Calendar Template"
 description: "Looking for emotional Mother’s Day or Father’s Day gift ideas in Los Angeles? Create a custom pet photo calendar with Canva templates. A heartfelt pet memorial gift for dog and cat lovers."
 pubDate: "2026-04-30"
 heroImage: "/pet-photo-calendar-los-angeles.jpg"
 ---
-
-import ProductGrid from "../components/ProductGrid.astro";
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -246,34 +270,11 @@ Instead of a single photo, this creates a full year of emotional storytelling.
 
 <hr>
 
-
-<!-- PRODUCT SECTION -->
+<!-- PRODUCT GRID (SAFE ASTRO COMPONENT) -->
 <ProductGrid
   title="🛍️ Explore More Pet Memory Templates"
-  subtitle="Popular printable pet memory products used for Mother’s Day and Father’s Day gifts in Los Angeles"
-  products={[
-   {
-      link: "https://petstellation.lemonsqueezy.com/checkout/buy/098c991a-799a-40ea-9db6-48c38ca23433",
-      image: "/00B6.jpg",
-      alt: "Pet Photo Calendar Template Los Angeles gift",
-      name: "Editable Pet Photo Calendar 2026",
-      price: "$9.99 USD"
-    },
-    {
-      link: "https://petstellation.lemonsqueezy.com/checkout/buy/6eee2940-0ca4-4478-aaeb-0ff226ef18fd",
-      image: "/00D3.jpg",
-      alt: "Pet Memory Book printable Canva template",
-      name: "Pet Memory Book",
-      price: "$6.99 USD"
-    },
-    {
-      link: "https://petstellation.lemonsqueezy.com/buy/affef5bd-c6ad-422b-8ad8-a590363decaf",
-      image: "/00D6.png",
-      alt: "Pet Memory Bundle Canva template",
-      name: "Pet Memory Bundle",
-      price: "$19.99 USD"
-    }
-  ]}
+  subtitle="Popular printable pet memory products for Mother’s Day & Father’s Day gifts in Los Angeles"
+  products={products}
 />
 
 <!-- FINAL CTA -->
