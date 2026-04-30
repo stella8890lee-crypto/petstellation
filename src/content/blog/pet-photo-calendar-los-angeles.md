@@ -201,8 +201,9 @@ Design a full year of memories in minutes — no design skills needed.</p>
 </a>
 
 <p style="margin-top:20px;">You can also explore more 
-<a href="/memory-keepsake>pet gift ideas</a> 
-and printable templates to create personalized keepsakes.</p>
+<a href="/memory-keepsake">pet gift ideas</a> 
+  and printable templates to create personalized keepsakes.
+</p>
 
 <img src="/pet-calendar-los-angeles.jpg"
      alt="pet photo calendar printed gift Los Angeles"
