@@ -58,7 +58,7 @@ img {
 
 <!-- CTA TOP -->
 <p><strong>🎁 Looking for a meaningful Mother’s Day or Father’s Day gift?</strong><br>
-Create a lasting memory with our <a href="https://petstellation.com/pet-calendar">custom pet photo calendar template</a> — perfect for dog moms, cat dads, and pet lovers in Los Angeles.</p>
+Create a lasting memory with our <a href="https://petstellation.lemonsqueezy.com/checkout/buy/098c991a-799a-40ea-9db6-48c38ca23433">custom pet photo calendar template</a> — perfect for dog moms, cat dads, and pet lovers in Los Angeles.</p>
 
 <h1>Mother’s Day & Father’s Day Gift Ideas in Los Angeles: A Custom Pet Photo Calendar That Brings Tears of Joy</h1>
 
