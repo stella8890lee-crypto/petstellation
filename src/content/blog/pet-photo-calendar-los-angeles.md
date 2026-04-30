@@ -196,13 +196,13 @@ Skip the usual flowers and mugs — and create something truly unforgettable.</p
 <p><strong>🎁 Ready to create a meaningful gift?</strong><br>
 Design a full year of memories in minutes — no design skills needed.</p>
 
-<a href="https://petstellation.com/pet-photo-calendar"
+<a href="https://petstellation.lemonsqueezy.com/checkout/buy/098c991a-799a-40ea-9db6-48c38ca23433"
    style="display:inline-block; padding:14px 22px; background:#A3C285; color:#fff; text-decoration:none; border-radius:8px; margin-top:10px;">
    Create Your Pet Photo Calendar
 </a>
 
 <p style="margin-top:20px;">You can also explore more 
-<a href="/blog">pet gift ideas</a> 
+<a href="/memory-keepsake</a> 
 and printable templates to create personalized keepsakes.</p>
 
 <img src="/pet-calendar-los-angeles.jpg"
