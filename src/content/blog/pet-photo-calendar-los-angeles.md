@@ -246,7 +246,7 @@ Instead of a single photo, this creates a full year of emotional storytelling.
 
 
 <!-- PRODUCT SECTION -->
-<div class="product-grid-wrapper">
+<div set:html={`
 
 <h2>🛍️ Explore More Pet Memory Templates</h2>
 
@@ -263,7 +263,7 @@ Instead of a single photo, this creates a full year of emotional storytelling.
         <p class="price">$9.99 USD</p>
       </a>
     </li>
-
+    
     <li>
       <a href="https://petstellation.lemonsqueezy.com/checkout/buy/6eee2940-0ca4-4478-aaeb-0ff226ef18fd">
         <img src="/00D3.jpg" alt="Pet Memory Book" />
@@ -284,7 +284,7 @@ Instead of a single photo, this creates a full year of emotional storytelling.
 
 </div>
 
-</div>
+`} />
 
 <!-- FINAL CTA -->
 <p style="margin-top:30px;">
