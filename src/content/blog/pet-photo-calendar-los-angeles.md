@@ -63,7 +63,7 @@ img {
 
 <p><strong>🎁 Want a meaningful gift in minutes?</strong> 
 Create a personalized keepsake with our 
-<a href="https://petstellation.com/pet-photo-calendar">custom pet photo calendar template</a> 
+<a href="https://petstellation.com/memory-keepsake">custom pet photo calendar template</a> 
 — perfect for dog moms, cat dads, and pet lovers.</p>
 
 <h1>Mother’s Day & Father’s Day Gift Ideas in Los Angeles</h1>
