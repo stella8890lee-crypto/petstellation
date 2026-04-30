@@ -25,8 +25,8 @@ const products = [
   }
 ];
 
-export const title = "Mother’s Day & Father’s Day Gift Ideas in Los Angeles | Custom Pet Photo Calendar Template";
-export const description = "Looking for emotional Mother’s Day or Father’s Day gift ideas in Los Angeles? Create a custom pet photo calendar with Canva templates. A heartfelt pet memorial gift for dog and cat lovers.";
+export const title = "Mother\'s Day & Father\'s Day Gift Ideas in Los Angeles | Custom Pet Photo Calendar Template";
+export const description = "Looking for emotional Mother\'s Day or Father\'s Day gift ideas in Los Angeles? Create a custom pet photo calendar with Canva templates. A heartfelt pet memorial gift for dog and cat lovers.";
 export const pubDate = "2026-04-30";
 export const heroImage = "/pet-photo-calendar-los-angeles.jpg";
 ---
