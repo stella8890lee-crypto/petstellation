@@ -246,38 +246,43 @@ Instead of a single photo, this creates a full year of emotional storytelling.
 
 
 <!-- PRODUCT SECTION -->
-<p><strong>Popular printable pet memory products used for Mother’s Day and Father’s Day gifts:</strong></p>
+<div class="product-grid-wrapper">
+
 <h2>🛍️ Explore More Pet Memory Templates</h2>
 
-<div class="category" style="margin-top:20px;">
+<p><strong>Popular printable pet memory products used for Mother’s Day and Father’s Day gifts:</strong></p>
+
+<div class="category">
 
   <ul>
 
     <li>
       <a href="https://petstellation.lemonsqueezy.com/checkout/buy/098c991a-799a-40ea-9db6-48c38ca23433">
-        <img src="/00B6.jpg" alt="Editable Pet Photo Calendar Canva Template dog cat memorial gift" width="410" height="410" />
-        <h4>Editable Pet Photo Calendar 2026 – Canva Template | Pet Memory Calendar</h4>
-        <p class="price">$9.99 USD | Instant Download</p>
+        <img src="/00B6.jpg" alt="Pet Photo Calendar" />
+        <h4>Editable Pet Photo Calendar 2026</h4>
+        <p class="price">$9.99 USD</p>
       </a>
     </li>
 
     <li>
       <a href="https://petstellation.lemonsqueezy.com/checkout/buy/6eee2940-0ca4-4478-aaeb-0ff226ef18fd">
-        <img src="/00D3.jpg" alt="Pet Birthday Memory Book printable template canva dog cat gift" width="410" height="410" />
-        <h4>Quiet Birthday Keepsake – Printable Pet Memory Book</h4>
-        <p class="price">$6.99 USD | Instant Download</p>
+        <img src="/00D3.jpg" alt="Pet Memory Book" />
+        <h4>Pet Memory Book</h4>
+        <p class="price">$6.99 USD</p>
       </a>
     </li>
 
     <li>
       <a href="https://petstellation.lemonsqueezy.com/buy/affef5bd-c6ad-422b-8ad8-a590363decaf">
-        <img src="/00D6.png" alt="Pet Memory Bundle Canva templates milestone tracker planner" width="410" height="410" />
-        <h4>Pet Memory Keepsake Bundle – Milestones & Photo Log</h4>
-        <p class="price">$19.99 USD | Instant Download</p>
+        <img src="/00D6.png" alt="Pet Bundle" />
+        <h4>Pet Memory Bundle</h4>
+        <p class="price">$19.99 USD</p>
       </a>
     </li>
 
   </ul>
+
+</div>
 
 </div>
 
