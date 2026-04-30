@@ -1,0 +1,84 @@
+---
+const { title, subtitle, products } = Astro.props;
+---
+
+<style>
+.product-grid-wrapper {
+  margin-top: 2rem;
+}
+
+.product-title {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.product-subtitle {
+  color: #777;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.8rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.product-card {
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  transition: transform 0.2s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-4px);
+}
+
+.product-card img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.product-card h4 {
+  font-size: 0.95rem;
+  margin: 0.3rem 0;
+  color: #555;
+}
+
+.product-card p {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+@media (max-width: 768px) {
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+</style>
+
+<div class="product-grid-wrapper">
+
+  <h2 class="product-title">{title}</h2>
+  <p class="product-subtitle">{subtitle}</p>
+
+  <ul class="product-grid">
+
+    {products.map((p) => (
+      <li>
+        <a class="product-card" href={p.link}>
+          <img src={p.image} alt={p.alt} />
+          <h4>{p.name}</h4>
+          <p>{p.price}</p>
+        </a>
+      </li>
+    ))}
+
+  </ul>
+
+</div>
