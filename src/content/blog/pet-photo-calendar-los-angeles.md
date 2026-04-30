@@ -25,10 +25,10 @@ const products = [
   }
 ];
 
-title: "Mother’s Day & Father’s Day Gift Ideas in Los Angeles | Custom Pet Photo Calendar Template"
-description: "Looking for emotional Mother’s Day or Father’s Day gift ideas in Los Angeles? Create a custom pet photo calendar with Canva templates. A heartfelt pet memorial gift for dog and cat lovers."
-pubDate: "2026-04-30"
-heroImage: "/pet-photo-calendar-los-angeles.jpg"
+export const title = "Mother’s Day & Father’s Day Gift Ideas in Los Angeles | Custom Pet Photo Calendar Template";
+export const description = "Looking for emotional Mother’s Day or Father’s Day gift ideas in Los Angeles? Create a custom pet photo calendar with Canva templates. A heartfelt pet memorial gift for dog and cat lovers.";
+export const pubDate = "2026-04-30";
+export const heroImage = "/pet-photo-calendar-los-angeles.jpg";
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -78,37 +78,6 @@ img {
   h1 { font-size: 1.6rem; }
   h2 { font-size: 1.3rem; }
 }
-
-.category ul {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.3rem;
-  list-style: none;
-  padding: 0;
-  margin: 0 auto;
-  max-width: 84%;
-}
-
-.category ul li {
-  text-align: center;
-}
-
-.category ul li img {
-  width: 100%;
-  border-radius: 12px;
-}
-
-.category ul li h4 {
-  margin: 0.2rem 0 0 0;
-  font-size: 1rem;
-  color: #666;
-}
-
-.category ul li .price {
-  color: #666;
-  font-size: 0.95rem;
-}
-  
 </style>
 
 <div class="container">
@@ -121,7 +90,7 @@ Create a lasting memory with our <a href="https://petstellation.lemonsqueezy.com
 
 <h1>Mother’s Day & Father’s Day Gift Ideas in Los Angeles: A Custom Pet Photo Calendar That Brings Tears of Joy</h1>
 
-<!-- GEO 情绪开场（核心优化点） -->
+<!-- GEO 情绪开场（原文不改） -->
 <p>
 Imagine this moment in Los Angeles.
 A mother opens her Mother’s Day gift expecting something simple — maybe flowers or a card.
@@ -253,7 +222,6 @@ Instead of a single photo, this creates a full year of emotional storytelling.
 
 <hr>
 
-<!-- FAQ GEO STRUCTURE -->
 <h2>❓ FAQ – Mother’s Day & Father’s Day Pet Gift Ideas</h2>
 
 <h3>What is the best Mother’s Day gift for a dog mom in Los Angeles?</h3>
@@ -270,24 +238,21 @@ Instead of a single photo, this creates a full year of emotional storytelling.
 
 <hr>
 
-<!-- PRODUCT GRID (SAFE ASTRO COMPONENT) -->
+<!-- PRODUCT GRID (SAFE COMPONENT ONLY) -->
 <ProductGrid
   title="🛍️ Explore More Pet Memory Templates"
-  subtitle="Popular printable pet memory products for Mother’s Day & Father’s Day gifts in Los Angeles"
+  subtitle="Popular printable pet memory products used for Mother’s Day & Father’s Day gifts in Los Angeles"
   products={products}
 />
 
-<!-- FINAL CTA -->
 <p style="margin-top:30px;">
 <strong>👉 This Mother’s Day & Father’s Day, give a gift that becomes a memory for life.</strong>
 </p>
 
 <hr>
 
-<!-- BACK TO BLOG -->
 <p style="text-align:center; margin-top:2em;">
-  <a href="/blog"
-     style="color:#777; text-decoration:none; font-size:18px;">
+  <a href="/blog" style="color:#777; text-decoration:none; font-size:18px;">
     ← Back to Blog
   </a>
 </p>
