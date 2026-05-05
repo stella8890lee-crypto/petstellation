@@ -198,7 +198,7 @@ Create a beautiful, personalized tag instantly.</p>
 </a>
 
 <p style="margin-top:20px;">Explore more 
-<a href="/tag-template">printable gift tag templates</a> 
+<a href="/gift-tags">printable gift tag templates</a> 
 to match any occasion.</p>
 
 <img src="/gift-tag-print.jpg"
