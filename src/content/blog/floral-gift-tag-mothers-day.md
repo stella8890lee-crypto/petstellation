@@ -162,20 +162,19 @@ Maybe flowers. Maybe something meaningful.</p>
 
 <p>This means your tag will always match your gift — perfectly.</p>
 
-<h2>🎁 What You Will Receive</h2>
+<h2>🎁 What Are for Choices</h2>
 
 <ul>
-  <li>Multiple floral designs (rose, bouquet, botanical)</li>
+  <li>Multiple floral designs (rose, bouquet, botanical) for choics in our shop</li>
   <li>Two shapes: classic rectangle + elegant tag style</li>
   <li>Editable Canva template</li>
-  <li>Step-by-step video tutorial</li>
+  <li>Tutorial video</li>
 </ul>
 
 <p><strong>Printable sizes:</strong></p>
 
 <ul>
-  <li>A4</li>
-  <li>US Letter</li>
+  <li> Fits to print on 8.5"x11" or A4 page</li>
 </ul>
 
 <h2>👩 Perfect For</h2>
