@@ -195,7 +195,7 @@ Create a lasting memory with our custom pet photo calendar template — great 
 <p><strong>🎁 Ready to create a meaningful gift?</strong><br>
 Design a full year of memories in minutes — no design skills needed.</p>
 
-<a href="https://petstellation.lemonsqueezy.com/checkout/buy/098c991a-799a-40ea-9db6-48c38ca23433"
+<a href="/memory-keepsake"
    style="display:inline-block; padding:14px 22px; background:#A3C285; color:#fff; text-decoration:none; border-radius:8px; margin-top:10px;">
    Create Your Pet Photo Calendar
 </a>
