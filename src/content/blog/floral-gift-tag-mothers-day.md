@@ -191,7 +191,7 @@ Maybe flowers. Maybe something meaningful.</p>
 <p><strong>🌸 Ready to upgrade your gift in minutes?</strong><br>
 Create a beautiful, personalized tag instantly.</p>
 
-<a href="https://petstellation.lemonsqueezy.com/checkout/buy/9287aaf4-157c-4c4a-a9fb-c5769c099076"
+<a href="/gift-tags"
    style="display:inline-block; padding:14px 22px; background:#E6A4B4; color:#fff; text-decoration:none; border-radius:8px; margin-top:10px;">
    Create Your Gift Tag Now
 </a>
