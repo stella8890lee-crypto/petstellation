@@ -153,7 +153,7 @@ style="width:100%; border-radius:12px; margin:20px 0;" />
 
 <p>Celebrate summer and Children's Day with fun vacation-themed characters.</p>
 
-<p>These cheerful designs feature cats and dogs enjoying beach adventures, sunshine, surfboards, and tropical vibes.</p>
+<p>These cheerful designs feature cats and dogs enjoying beach adventures and sunshine.</p>
 
 <p>Perfect for:</p>
 
@@ -211,7 +211,6 @@ style="width:100%; border-radius:12px; margin:20px 0;" />
 <li>Edit names and messages</li>
 <li>Customize fonts</li>
 <li>Adjust text placement</li>
-<li>Add photos if desired</li>
 <li>Download and print instantly</li>
 </ul>
 
@@ -237,10 +236,10 @@ style="width:100%; border-radius:12px; margin:20px 0;" />
 <h2>🎁 What You Will Receive</h2>
 
 <ul>
-<li>One unique cat or dog design per template (sold separately)</li>
+<li>One unique design per template (sold separately)</li>
 <li>Two shape options: classic rectangle + gift tag style</li>
 <li>Fully editable Canva template</li>
-<li>Access to an online step-by-step tutorial video</li>
+<li>With online step-by-step tutorial video in our website</li>
 </ul>
 
 <p><strong>Printable Sizes:</strong></p>
