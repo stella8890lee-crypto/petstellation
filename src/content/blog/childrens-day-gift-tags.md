@@ -245,8 +245,7 @@ style="width:100%; border-radius:12px; margin:20px 0;" />
 <p><strong>Printable Sizes:</strong></p>
 
 <ul>
-<li>US Letter</li>
-<li>A4</li>
+<li>Compatible with US Letter and A4 paper sizes</li>
 </ul>
 
 <h2>🎈 Perfect For</h2>
