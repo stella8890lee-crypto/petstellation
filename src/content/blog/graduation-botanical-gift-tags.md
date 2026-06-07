@@ -235,6 +235,7 @@ style="width:100%; border-radius:12px; margin:20px 0;" />
 <li>Adjust text placement</li>
 <li>Download instantly</li>
 <li>Print at home or professionally</li>
+<li>Printable Sizes: Compatible with US Letter and A4 paper sizes</li>
 </ul>
 
 <p><strong>No graphic design experience required.</strong></p>
