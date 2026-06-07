@@ -113,7 +113,7 @@ style="width:100%; border-radius:12px; margin:20px 0;" />
 
 <p>Each design feels like a tiny cat meme attached to your gift.</p>
 
-<h2>🎁 Perfect for Father's Day Cat Dad Gifts</h2>
+<h2>🎁 Ideal for Father's Day Cat Dad Gifts</h2>
 
 <p>Father's Day is approaching fast.</p>
 
@@ -254,8 +254,7 @@ style="width:100%; border-radius:12px; margin:20px 0;" />
 <p><strong>Printable Sizes:</strong></p>
 
 <ul>
-<li>US Letter</li>
-<li>A4</li>
+<li>Compatible with US Letter and A4 paper sizes</li>
 </ul>
 
 <h2>🐾 Perfect For</h2>
